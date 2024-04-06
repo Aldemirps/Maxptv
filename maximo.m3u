@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 xui-id="Jogos do dia" tvg-id="" tvg-name="PROGRAMAÇÃO ESPORTIVA ALPHA OFICIAL" tvg-logo="" group-title="PROGRAMAÇÃO ESPORTIVA",PROGRAMAÇÃO ESPORTIVA ALPHA OFICIAL
+http://alphajogos.fun:80/play/xIZerh5zyxmiaITtaaQP8hHEgm6ID_DiDVUbBeTq4xs
+
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cazé Tv HD" tvg-logo="https://painelsbo.painel.life/logosnovos/Campeonatosestaduais/caze.png" group-title="Stream :: ESPORTES",Cazé Tv HD
 http://dns.maxptv.net:2052/sheyla66/19989927779/137974
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cazé Tv2 HD" tvg-logo="https://painelsbo.painel.life/logosnovos/Campeonatosestaduais/caze.png" group-title="Stream :: ESPORTES",Cazé Tv2 HD
