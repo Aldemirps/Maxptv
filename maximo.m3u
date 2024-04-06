@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Mosaico Jogos" tvg-logo="https://prostore.app/logos/jogosodia.png" group-title="Guia De Canais",Mosaico Jogos
-http://51.79.39.236:80/live/z0s8e6jf/o2p6z07i/129345.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mosaico Jogos" tvg-logo="https://prostore.app/logos/jogosodia.png" group-title="Guia De Canais",Mosaico Jogos
 http://51.79.39.236:80/live/z0s8e6jf/o2p6z07i/129345.m3u8
@@ -1016,7 +1014,6 @@ http://dns.maxptv.net:2052/ngg121/p9o4321/113072
 http://dns.maxptv.net:2052/ngg121/p9o4321/113071
 #EXTINF:-1 tvg-id="Scooby Doo 24H" tvg-name="Scooby-Doo: O Que Há de Novo?" tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/scooboqueha.png" group-title="24H ::: INFANTIL",Scooby-Doo: O Que Há de Novo?
 http://dns.maxptv.net:2052/ngg121/p9o4321/113070
-
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel FHD
 http://dns.maxptv.net:2052/ngg121/p9o4321/20233
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel HD" tvg-logo="https://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel HD
@@ -1243,7 +1240,6 @@ http://dns.maxptv.net:2052/ngg121/p9o4321/20255
 http://dns.maxptv.net:2052/ngg121/p9o4321/41
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network SD" tvg-logo="https://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network SD
 http://dns.maxptv.net:2052/ngg121/p9o4321/40
-
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Vikings (2013)" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/vikins.png" group-title="24H ::: SÉRIES",Vikings (2013)
 http://dns.maxptv.net:2052/ngg121/p9o4321/112840
 #EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/viva.png" group-title="Canais :: VARIEDADES",Viva HD
