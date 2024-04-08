@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Jogos do dia " tvg-logo="https://prostore.app/logos/jogosodia.png" group-title="Jogos do dia",Mosaico Jogos
-http://51.79.39.236:80/live/z0s8e6jf/o2p6z07i/129345.m3u8
+http://195.128.248.216:8080/382872/282828/197699
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="" tvg-name="BBB 24" tvg-logo="http://p6.vc/AXJH" group-title="Canais | BBB 24",BBB 24
