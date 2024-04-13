@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="App atualizado 11/04/24" tvg-logo="",App atualizado 13/04/24
- https://github.com/Aldemirps/Tv-top/raw/main/YouCut_20240410_124537489.mp4
+#EXTINF:-1 tvg-name="Jogos do dia" tvg-logo="",Jogos do dia
+ http://51.79.39.236:80/live/rhgpgegf/yCL5kq58v1/129345.ts
 #EXTINF:-1 tvg-name=" GLOBO SUDOESTE BAHIA" tvg-logo="", GLOBO SUDOESTE BAHIA
  http://voz.one:80/saulofont05/RR75h33e2xCa/47695
 #EXTINF:-1 tvg-name="A&E (H265)" tvg-logo="",A&E (H265)
