@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Jogos do dia" tvg-logo="",Jogos do dia
+ http://smart646.com/live/Tourobox3-sHTRtf06dl/qIh19ixutA/260711
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E FHD
 http://bjstream.info:80/EKPrxCnJDFcZ/3EeJuPs5jMm6/1263017
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="" group-title="CANAIS | FILMES & SERIES",A&E HD
