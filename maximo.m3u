@@ -1,4 +1,6 @@
-#EXTM3U
+EXTM3U
+#EXTINF:-1 tvg-name="Jogos do dia" tvg-logo="",Jogos do dia
+ http://smart646.com/live/Tourobox3-sHTRtf06dl/qIh19ixutA/260711
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
 http://tvs.futbol:80/662454576/2729714/284576
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere Clubes 4K 
