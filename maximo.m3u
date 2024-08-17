@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Recomendações" tvg-logo="https://icon-icons.com/downloadimage.php?id=23085&root=191/PNG/256/&file=Favorites_23085.png" group-title="Recomendações", Recomendação 
+#EXTINF:-1 tvg-id="Recomendações"tvg-name="Recomendações" tvg-logo="https://icon-icons.com/downloadimage.php?id=23085&root=191/PNG/256/&file=Favorites_23085.png" group-title="Recomendações", Recomendações 
 https://drive.google.com/uc?export=download&id=17ZPiPQiWO9V-bDLca67y8fLJ-NGIIWvi
 #EXTINF:-1 tvg-name="Jogos do dia" tvg-logo="Jogos do dia" group-title="Jogos", Jogos do dia 
 http://xciptv.aplicativos.top/live/334470477/6641307/234252.ts
