@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Recomendações" tvg-logo="Recomendação",
+https://drive.google.com/uc?export=download&id=17ZPiPQiWO9V-bDLca67y8fLJ-NGIIWvi
 #EXTINF:-1 tvg-name="Jogos do dia" tvg-logo="Jogos do dia",
 http://xciptv.aplicativos.top/live/334470477/6641307/234252.ts
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+ HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS ABERTOS",Agro+ HD
