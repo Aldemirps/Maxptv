@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Jogos do dia" tvg-logo="",Jogos do dia
- http://p2z.me:80/live/123456/123456/5955542.ts
+#EXTINF:-1 tvg-name="Jogos do dia" tvg-logo="Jogos do dia",
+http://xciptv.aplicativos.top/live/334470477/6641307/234252.ts
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+ HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS ABERTOS",Agro+ HD
 http://axr.life:80/dxUx7YkN4Pn6/d8LmnTtTvQ7S/1263147
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+ SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS ABERTOS",Agro+ SD
