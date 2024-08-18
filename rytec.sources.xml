@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="latin-1"?>
+<sources>
+
+<!-- EPG FROM runigma by kil1970 - -->
+
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-4W.xml.gz">
+   <description>(epg by Igor-K)- AMOS 4.0W </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-49E.xml.gz">
+   <description>(epg by Igor-K)- SIRIUS 4.9E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-90E.xml.gz">
+   <description>(epg by Igor-K)- Eutelsat 9.0E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-130E.xml.gz">
+   <description>(epg by Igor-K)- HOTBIRD 13.0E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-190E.xml.gz">
+   <description>(epg by Igor-K)- Astra 19.2E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-315E.xml.gz">
+   <description>(epg by Igor-K)- Astra 31.5E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-460E.xml.gz">
+   <description>(epg by Igor-K)- AzerSpace 46E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-549E.xml.gz">
+   <description>(epg by Igor-K)- Yamal402 54.9E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-560E.xml.gz">
+   <description>(epg by Igor-K)- Express-AT1 56E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-600E.xml.gz">
+   <description>(epg by Igor-K)- Intelsat 60E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-749E.xml.gz">
+   <description>(epg by Igor-K)- ABS-2/2A 74.9E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-801E.xml.gz">
+   <description>(epg by Igor-K)- Express-AM22 80.1E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/SAT/channels-900E.xml.gz">
+   <description>(epg by Igor-K)- Yamal 401 90.0E </description>
+   <url>http://iptvx.one/epg/epg.xml.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://runigma.com.ua/EPG/IPTV/channels-iptv.xml.gz">
+   <description>(epg by Igor-K)- IPTV </description>
+   <url>http://runigma.com.ua/EPG/IPTV/xmltv.xml.gz</url>
+</source>
+
+<sourcecat sourcecatname="Russian XMLTV">
+<source type="gen_xmltv" channels="http://epg.in.ua/epg/ls.channels.xml.gz">
+	<description>Linuxsat ExUSSR XMLTV</description>
+	<url>http://epg.in.ua/epg/tvprogram_ua_ru.gz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://dortmundez.ucoz.net/epg/channels.iptv.xml.xz">
+	<description>TvGuide - IPTV ru (epg by dortmundez)(xz)</description>
+	<url>http://dortmundez.ucoz.net/epg/epg.xml.xz</url>
+</source>
+
+<source type="gen_xmltv" channels="http://dortmundez.ucoz.net/epg/channels.sat.xml.xz">
+	<description>TvGuide - Sat.TV ru (epg by dortmundez)(xz)</description>
+	<url>http://dortmundez.ucoz.net/epg/epg.xml.xz</url>
+</source><sourcecat sourcecatname="Russian XMLTV by Vasiliks">
+
+<source type="gen_xmltv" channels="http://vasiliks.ucoz.net/epg/channels-iptv.xml.gz">                      
+	<description>IPTV   (epg by Vasiliks)(gz) network</description>
+	<url>http://vasiliks.ucoz.net/epg/epg-iptv.xml.gz</url>
+</source>
+ 
+<source type="gen_xmltv" channels="http://vasiliks.ucoz.net/epg/channels_sat_4w_13e_ru.xml.gz">                      
+	<description>SAT 4W-13E ru (epg by Vasiliks)(gz) network</description>
+	<url>http://vasiliks.ucoz.net/epg/epg_sat_4w_13e.xml.gz</url>
+</source>
+ 
+<source type="gen_xmltv" channels="http://vasiliks.ucoz.net/epg/channels_sat_4w_13e_ua.xml.gz">                      
+	<description>SAT 4W-13E ua (epg by Vasiliks)(gz) network</description>
+	<url>http://vasiliks.ucoz.net/epg/epg_sat_4w_13e.xml.gz</url>
+</source>
+
+
+
