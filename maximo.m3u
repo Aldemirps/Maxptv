@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Jogos do dia" tvg-logo="",Jogos do dia
+http://smart646.com/live/Tourobox3-sHTRtf06dl/qIh19ixutA/260711.ts
 #EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA 1" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title="FONTE FULL",ACOMPANHE A CASA 1
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/7948
 #EXTINF:-1 tvg-id="" tvg-name="Estrela da Casa Cam 01" tvg-logo="https://inmagazine.ig.com.br/wp-content/uploads/2024/06/Materias-79.png" group-title="FONTE FULL",Estrela da Casa Cam 01
