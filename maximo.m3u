@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="JOGOS DE HOJE ⚽" tvg-logo="https://i.postimg.cc/cHHX4vYD/canal-futebol.png" tvg-name="JOGOS",JOGOS DE HOJE
+http://gerenciadorr.xyz/live/72257545/78147471/441553.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" GLOBO SUDOESTE BAHIA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo", GLOBO SUDOESTE BAHIA
 http://zbz.one:80/brazilfnt_2S0Odev1JrMlPzehygT3K5hxMulVvP/4WGTi5NyEZxfoSZS9A0IGF3FZl1jNP/47695
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONICA HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAZONICA HD
