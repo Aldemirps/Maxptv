@@ -1,1509 +1,2179 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",JOGOS DE HOJE
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/cedYB5/89806.ts.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO ACRE RIO BRANCO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6860.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO ACRE RIO BRANCO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6861.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO AMAPA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7873.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO AMAPÁ FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6742.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO AMAPÁ HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6743.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO BELEM
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3938.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO BELEM HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6744.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO BELO HORIZONTE FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6889.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO BELO HORIZONTE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6890.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO BRASILIA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6891.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO BRASILIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6752.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO BRASILIA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3956.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO CEARÁ FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6748.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO CEARÁ HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6749.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO CENTRO AMERICA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6892.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO CENTRO AMERICA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6893.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO CURITIBA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6750.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO CURITIBA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4964.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV CAMPINAS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6894.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV CAMPINAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6895.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV CAMPINAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3955.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV CAMPINAS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3954.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV RIBEIRAO PRETO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6896.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV RIBEIRAO PRETO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6897.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV RIBEIRÃO PRETO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3947.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV RIBEIRÃO PRETO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3946.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV SUL DE MINAS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6898.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV SUL DE MINAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6899.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO EPTV SÃO CARLOS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3941.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO FEIRA DE SANTANA BAHIA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7899.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO FLORIANOPOLIS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3952.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO FLORIANÓPOLIS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3953.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO INTER TV ALTO LITORAL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6900.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO INTER TV ALTO LITORAL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6901.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO INTER TV CABUGI FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6902.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO INTER TV CABUGI HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6903.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO INTER TV DOS VALES FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6904.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO INTER TV DOS VALES HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6905.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO INTER TV GRANDE MINAS MG FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6906.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO INTER TV GRANDE MINAS MG HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6907.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO JUAZEIRO BAHIA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7896.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO JUAZEIRO DO NORTE
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7900.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO MARANHÃO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6756.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO MARANHÃO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6757.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO MINAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6746.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO MINAS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3950.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NATAL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6862.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NATAL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6863.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NORDESTE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4925.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NORDESTE SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3949.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC BLUMENAU FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6908.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC BLUMENAU HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6909.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC CHAPECO FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6910.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC CHAPECO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6911.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC CRICIUMA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6912.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC CRICIUMA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6913.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC JOINVILLE FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6914.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC JOINVILLE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6915.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC TV FLORIANOPOLIS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6916.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NSC TV FLORIANOPOLIS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6917.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO PERNAMBUCO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6864.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO PERNAMBUCO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6865.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO PORTO ALEGRE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6768.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO PORTO ALEGRE SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4968.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RBS PORTO ALEGRE FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6918.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RBS PORTO ALEGRE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6919.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RBS TV CAXIAS DO SUL FHD H26
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6920.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RBS TV CAXIAS DO SUL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6921.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RBS TV PASSO FUNDO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6922.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RBS TV PASSO FUNDO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6923.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RBS TV PELOTAS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6924.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RBS TV PELOTAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6925.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO REDE AMAZONICA ITACOATIARA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7895.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO REDE AMAZONICA PARINTINS
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7894.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO REDE AMAZONICA RONDONIA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6926.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO REDE AMAZONICA RONDONIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6927.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO REDE AMAZÔNICA MANAUS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6758.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO REDE AMAZÔNICA MANAUS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4967.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RJ FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6928.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RJ HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6928.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RIO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6928.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RIO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6928.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RONDONIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6766.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RONDONIA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6767.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RORAIMA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6760.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RORAIMA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6761.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC CURITIBA FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6930.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC CURITIBA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6931.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC FOZ DO IGUACU FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6932.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC FOZ DO IGUACU HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6933.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC MARINGA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6934.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC MARINGA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6935.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC PARANAVAI FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6936.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC PARANAVAI HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6937.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC TV PONTA GROSSA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6938.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO RPC TV PONTA GROSSA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6939.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO SJRP FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6888.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO SJRP HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3751.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO SJRP SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7881.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO SP FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4795.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO SP FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4880.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO SP HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3943.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO SP SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3942.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ALAGOAS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6940.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ALAGOAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6941.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA ANAPOLIS
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7901.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA CATALAO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7902.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6942.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA GOIANIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6754.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA GOIANIA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6755.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA ITUMBIARA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7903.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA JATAI
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7904.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA LUZIANIA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7905.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV ANHANGUERA PARAGANTU
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7906.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV BAHIA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3939.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV BAHIA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6943.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV BAHIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6944.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV BAHIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6770.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV DIARIO MOGIDAS CRUZES FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6946.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV FRONTEIRA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6947.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV FRONTEIRA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6948.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV GAZETA SUL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6949.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV GAZETA SUL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6950.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV GAZETA VITORIA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6951.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV GAZETA VITORIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6952.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV INTEG. ARAXA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6953.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV INTEG. ARAXA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6954.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV INTEG. JUIZ DE FORA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6955.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV INTEG. JUIZ DE FORA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6956.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV LIBERAL BELEM HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6957.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV MORENA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6958.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV MORENA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6959.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV NORDESTE  FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6960.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV NORDESTE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6961.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV OESTE BARREIRAS BAHIA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7897.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV RIO SUL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6962.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV RIO SUL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6963.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV SANTA CRUZ ITABUNA BAHIA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7898.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV SERRA MAR FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6964.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV SERRA MAR HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6965.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TEM BAURU FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6966.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TEM BAURU FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3937.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TEM BAURU HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6967.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TEM BAURU HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4924.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TEM SJRP
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3936.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TEM SOROCABA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3935.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TEM SOROCABA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6968.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TEM SOROCABA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6969.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TRIBUNA SANTOS
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3934.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TRIBUNA SANTOS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6970.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV TRIBUNA SANTOS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6971.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV VANG. S.J. CAMPOS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6972.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV VANG. S.J. CAMPOS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6973.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV VANG. TAUBATE FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6974.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV VANG. TAUBATE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6975.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV VANGUARDA SJDC FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3933.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO TV VERDES MARES
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3932.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO VERDES MARES FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6976.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO VERDES MARES HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6977.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO VITÓRIA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6772.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO VITÓRIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6773.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GAZETA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4850.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GAZETA FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4879.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GAZETA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4851.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GAZETA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4852.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA CAM 1
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6734.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA CAM 2
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6735.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA CAM 3
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6736.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA CAM 4
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6737.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA CAM 5
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6738.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA CAM 6
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6739.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA CAM 7
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6740.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA CAM 8
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6741.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A FAZENDA PRINCIPAL
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6733.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB 1 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6978.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB 1 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4063.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB 2 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4061.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB 2 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4062.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 1
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3706.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 10
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3705.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 11
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3704.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 2
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3703.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 3
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3702.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 4
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3701.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 5
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3700.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 6
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3699.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 7
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3698.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 8
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3697.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB CAM 9
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3696.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB MOSAICO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4058.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BBB MOSAICO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4059.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A&E FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4085.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A&E FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4864.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A&E HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4084.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",A&E SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4083.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AMC FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4758.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AMC HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4082.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AMC SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4081.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AXN FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4077.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AXN FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4866.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AXN HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4076.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AXN SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4075.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL SONY FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4042.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL SONY FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4868.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL SONY HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3816.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL SONY SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3815.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE CANAL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3796.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE CANAL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6829.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE CANAL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3795.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE CANAL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4822.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 01
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3663.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 02
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3662.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 03
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3661.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 04
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3660.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 05
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3659.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 06
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3658.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 07
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3657.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 08
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3656.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE SKY 09
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3655.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINEMAX FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4774.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINEMAX FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6794.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINEMAX HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4035.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINEMAX SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4034.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",FX FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3959.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",FX FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6810.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",FX HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3958.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",FX SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3957.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MEGAPIX FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4801.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MEGAPIX FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6818.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MEGAPIX HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3886.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MEGAPIX SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3885.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PARAMOUNT CHANNEL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3859.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PARAMOUNT CHANNEL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4885.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PARAMOUNT CHANNEL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3861.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PARAMOUNT CHANNEL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3860.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STAR CHANNEL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3805.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STAR CHANNEL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4921.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STAR CHANNEL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3804.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STAR CHANNEL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3803.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STUDIO UNIVERSAL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4823.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STUDIO UNIVERSAL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4900.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STUDIO UNIVERSAL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3794.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STUDIO UNIVERSAL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3793.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE ACTION FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3784.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE ACTION FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4901.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE ACTION HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3783.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE ACTION SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3782.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE CULT FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3781.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE CULT FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4902.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE CULT HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3780.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE CULT SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3779.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE FUN FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3778.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE FUN FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4903.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE FUN HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4904.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE FUN SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3776.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PIPOCA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3775.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PIPOCA FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3777.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PIPOCA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3774.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PIPOCA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3773.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PREMIUM FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3772.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PREMIUM FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4905.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PREMIUM HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3771.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PREMIUM SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3770.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE TOUCH FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3769.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE TOUCH FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4906.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE TOUCH HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3768.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE TOUCH SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3767.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3764.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4907.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3763.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3762.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT NOVELAS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7886.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT NOVELAS FHD H256
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7885.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT NOVELAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7887.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT NOVELA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7888.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SERIES FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4908.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SÉRIES FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3759.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SÉRIES HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3761.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SÉRIES SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3760.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",UNIVERSAL CHANNEL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3749.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",UNIVERSAL CHANNEL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4909.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",UNIVERSAL CHANNEL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3748.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",UNIVERSAL CHANNEL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3747.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",WARNER CHANNEL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3737.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",WARNER CHANNEL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4910.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",WARNER CHANNEL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3739.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",WARNER CHANNEL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3738.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO BRASIL  1
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7034.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO BRASIL 2
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7037.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND SPORTS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4761.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND SPORTS FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6788.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND SPORTS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4065.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND SPORTS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4064.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CAZE TV 1
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7916.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CAZE TV 2
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7917.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CAZE TV 3
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7918.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COMBATE FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4031.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COMBATE FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4869.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COMBATE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4030.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COMBATE SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4029.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL PARAMOUNT+ 1 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4776.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL PARAMOUNT+ 1 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4777.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL PARAMOUNT+ 2 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4778.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL PARAMOUNT+ 2 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4779.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL PARAMOUNT+ 3 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4780.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL PARAMOUNT+ 3 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4781.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL PARAMOUNT+ 4 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4782.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL PARAMOUNT+ 4 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4783.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL TV 1 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4024.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL TV 2 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4022.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL TV 3 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4020.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CONMEBOL TV 4 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4018.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO NORDESTE 01 PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4093.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO NORDESTE 02 PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4094.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO NORDESTE 03 PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4095.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO NORDESTE 04 PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7038.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO NORDESTE 05 PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7039.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO NORDESTE 06 PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7040.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO NORDESTE 07 PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7041.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COPA DO NORDESTE 08 PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7042.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DAZN 1
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4015.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DAZN 2
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4014.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DAZN 3
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4013.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DAZN 4
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4012.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DAZN 5
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4011.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISNEY + 1
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8100.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISNEY + 2
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8101.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISNEY + 3
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8102.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISNEY + 4
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8103.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4789.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4873.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3980.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3979.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN2 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4791.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN2 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4875.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN2 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3976.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN2 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3975.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN3 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4792.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN3 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4876.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN3 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3974.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN3 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3973.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 4 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3962.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 4 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4878.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 4 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3961.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 4 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3960.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 5 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3964.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 5 FHD H256
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3964.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 5 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3963.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 5 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3963.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN EXTRA 6 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4790.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 6 EXTRA FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4874.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 6 EXTRA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3977.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESPN 6 EXTRA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3978.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESTADIO TNT SPORT 01 HD PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4096.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESTADIO TNT SPORT 02 HD PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4097.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESTADIO TNT SPORT 03 HD PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4098.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESTADIO TNT SPORT 04 HD PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4099.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ESTADIO TNT SPORT 05 HD PPV
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4100.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NOSSO FUTEBOL 1
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7474.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NOSSO FUTEBOL 2
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7475.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NOSSO FUTEBOL 3
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7476.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NOSSO FUTEBOL 4
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7477.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE CLUBES FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4812.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE CLUBES FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4892.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE CLUBES HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3855.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE CLUBES SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3854.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 2 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4806.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 2 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4886.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 2 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3853.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 2 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3852.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 3 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4807.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 3 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4887.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 3 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3851.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 3 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3850.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 4 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4808.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 4 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4888.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 4 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3849.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 4 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3848.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 5 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4809.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 5 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4889.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 5 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3847.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 5 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3846.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 6 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4810.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 6 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4890.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 6 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3845.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 6 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3844.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 7 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4811.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 7 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4891.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 7 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3843.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",PREMIERE 7 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3842.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4819.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4899.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3811.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3810.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV 2 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4820.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV 2 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4897.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV 2 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3809.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV 2 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3808.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV 3 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4821.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV 3 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4898.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV 3 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3807.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SPORTV 3 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3806.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT  CASTANHAL
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7892.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT ALAGOAS TV PONTA VERDE
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7893.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT AMAZONAS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7878.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT BRASILIA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6885.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT CENTRAL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7349.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT DIFUSORA SAO LUIZ DO MARANHAO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7033.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT INTERIOR
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6870.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT ITAPOAN FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7023.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT ITAPOAN HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7024.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT PARA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6877.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT PIAUI
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7471.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT RBS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7025.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT REDE MASSA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6874.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT RIBEIRÃO PRETO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7350.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT RIO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7026.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT RIO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7027.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT RN
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7472.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT RS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7398.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT SAO LUIZ MA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6871.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT SCC
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6878.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT SERRA DOURADA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6873.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT SP FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4817.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT SP FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4895.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT SP HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3824.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT SP SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3823.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT TV ALTEROSA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7028.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT TV ALTEROSA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7029.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT TV ARATU -BAHIA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6869.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT TV DIFUSORA CAXIAS
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6881.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT TV JANGADEIRO -CEARA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7032.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT TV JORNAL RECIFE
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6875.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT TV TAMBAU PARAIBA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7473.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT VTV CAMPINAS
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6880.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",SBT VTV CAMPINAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6884.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD BAHIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4973.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD BAHIA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4974.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD BELEM HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4975.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD BELEM SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4976.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD BRASILIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4977.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD BRASILIA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4978.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD CAMPINAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3840.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD CAMPINAS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3839.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD GOIAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4979.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD GOIAS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3834.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD INTERIOR SP FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7007.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD INTERIOR SP HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7008.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD ITAPOAN FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7009.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD ITAPOAN HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7010.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD LITORAL VALE DO PARNAIBA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7011.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD LITORAL VALE DO PARNAIBA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7012.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD MANAUS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4981.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD MANAUS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4982.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD MINAS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7351.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD MINAS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3833.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD NATAL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7877.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD PARANAIBA UBERLANDIA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7013.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD PARANAIBA UBERLANDIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7014.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD PAULISTA FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7015.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD PAULISTA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7016.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD RICTV MARINGA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7909.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD RIO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7045.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD RIO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4987.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD RIO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3832.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD RS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4989.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD RS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3831.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD SIC TV RONDONIA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7017.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD SIC TV RONDONIA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7018.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD SJR.PRETO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7019.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD SJR.PRETO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7020.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD SP FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4813.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD SP FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4893.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD SP HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3836.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD SP SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3835.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD TV CIDADE CEARA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7481.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD TV CORREIO JOAO PESSOA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7908.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD TV GUARARAPES FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7910.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD TV TROPICAL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7911.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD VILA REAL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7021.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD VILA REAL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7022.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND NEWS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4760.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND NEWS FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6787.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND NEWS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4069.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND NEWS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4068.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN BRASIL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4775.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN BRASIL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6795.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN BRASIL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4033.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN BRASIL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4032.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN BRASIL MONEY FHD 265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7966.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN BRASIL MONEY FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7963.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN BRASIL MONEY HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7964.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN BRASIL MONEY SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7965.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN INTERNACIONAL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6992.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CNN INTERNACIONAL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6993.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NEWS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3931.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NEWS FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6811.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NEWS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3930.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO NEWS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3929.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",JOVEM PAN NEWS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6866.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",JOVEM PAN NEWS FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7343.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",JOVEM PAN NEWS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6867.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",JOVEM PAN NEWS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6868.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD NEWS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3838.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD NEWS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7392.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",RECORD NEWS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3837.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CARTOON NETWORK FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4039.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CARTOON NETWORK FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6793.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CARTOON NETWORK HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4038.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CARTOON NETWORK SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4037.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CARTOONITO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4763.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CARTOONITO FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6790.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CARTOONITO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4054.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CARTOONITO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4053.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY KIDS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4785.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY KIDS FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6799.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY KIDS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4002.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY KIDS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4001.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISNEY CHANNEL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3988.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISNEY CHANNEL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6803.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISNEY CHANNEL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3989.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISNEY CHANNEL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3987.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOOB FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4796.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOOB FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6812.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOOB HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3928.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOOB SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3927.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOOBINHO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4838.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOOBINHO FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6813.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOOBINHO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4839.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOOBINHO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4840.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NICKELODEON FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3864.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NICKELODEON FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6827.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NICKELODEON HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3863.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NICKELODEON SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3862.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NICK JR FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3865.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NICK JR FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6826.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NICK JR HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3867.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NICK JR SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3866.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3916.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4915.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3915.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO 2 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3898.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO 2 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4919.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO 2 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3921.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO 2 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3920.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FAMILY FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3919.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FAMILY FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4914.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FAMILY HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3918.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FAMILY SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3917.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MAIS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3899.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MAIS FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4918.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MAIS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3911.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MAIS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3910.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MAX STAR + 4
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7915.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MAX STAR+ 01
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6854.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MAX STAR+ 02
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6855.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MAX STAR+ 03
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6856.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MUNDI FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3914.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MUNDI FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4912.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MUNDI HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3913.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MUNDI SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3912.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO POP FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3909.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO POP FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4916.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO POP HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3908.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO POP SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3907.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3906.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SIGNATURE FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3905.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SIGNATURE FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4917.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SIGNATURE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3904.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SIGNATURE SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3903.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO XTREME FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3902.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO XTREME FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4913.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO XTREME HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3901.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO XTREME SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3900.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ADULT SWIN FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7919.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ADULT SWIN HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7920.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ADULT SWIN SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7921.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BIS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4762.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BIS FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6789.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BIS HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4056.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BIS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4055.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL BRASIL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4764.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL BRASIL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6791.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL BRASIL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4052.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL BRASIL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4765.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL DO BOI FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4767.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL DO BOI HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4047.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL DO BOI SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4768.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL OFF FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4884.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COMEDY CENTRAL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4028.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COMEDY CENTRAL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6796.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COMEDY CENTRAL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4027https://iili.io/dHVZuFp.png.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",COMEDY CENTRAL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4026.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CULTURA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4784.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CULTURA FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6797.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CULTURA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4017.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CULTURA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4016.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GNT FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4797.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GNT FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6814.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GNT HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3926.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GNT SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3925.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",H2 FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3924.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",H2 FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4883.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",H2 HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3923.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",H2 SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3922.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MULTISHOW FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4804.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MULTISHOW FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6822.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MULTISHOW HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3880.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MULTISHOW SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3879.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TERRA VIVA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6775.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TERRA VIVA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4962.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",VIVA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4831.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",VIVA FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6847.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",VIVA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3741.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",VIVA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3740.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANÇÃO NOVA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6732.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANÇÃO NOVA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4051.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANÇÃO NOVA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4050.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TV APARECIDA FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4825.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TV APARECIDA FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6845.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TV APARECIDA HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3756.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TV APARECIDA SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3755.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND CAMPINAS FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4072.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND CAMPINAS SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4071.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND CASCAVEL TV TAROBA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7484.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND CEARA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7483.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND MANAIRA PARAIBA
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7485.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND NATAL
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7487.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND RIO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7482.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND RS
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7395.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND SP FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4759.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND SP FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4867.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND SP HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4067.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND SP SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4066.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",BAND TV TRIBUNA RECIFE
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7486.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ANIMAL PLANET FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4080.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ANIMAL PLANET FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4911.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ANIMAL PLANET HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4079.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",ANIMAL PLANET SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4078.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY CHANNEL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4009.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY CHANNEL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6784.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY CHANNEL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4008.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY CHANNEL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4007.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY H&H FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4010.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY H&H FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4871.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY H&H HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4004.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY H&H SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4003.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY ID FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3894.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY ID FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4920.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY ID HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3893.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY ID SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3892.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY SCIENCE FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4000.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY SCIENCE FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6800.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY SCIENCE HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3999.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY SCIENCE SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3998.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY THEATER FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4786.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY THEATER FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6801.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY THEATER HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3997.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY THEATER SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3996.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY TURBO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3995.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY TURBO FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4872.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY TURBO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3994.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY TURBO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3993.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY WORLD FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3992.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY WORLD FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6802.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY WORLD HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3991.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",DISCOVERY WORLD SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3990.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HISTORY CHANNEL FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3895.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HISTORY CHANNEL FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4882.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HISTORY CHANNEL HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3897.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HISTORY CHANNEL SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3896.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NATGEO FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3872.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NATGEO FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6823.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NATGEO HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3871.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",NATGEO SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3870.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AMC FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4865.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",AMC FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8050.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL SONY FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8047.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL SONY HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8046.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CANAL SONY SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8045.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE CANAL FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8044.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE CANAL HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8043.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINE CANAL SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8042.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINEMAX FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8041.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINEMAX HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8040.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",CINEMAX SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8039.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",FX FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8038.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",FX HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8037.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",FX SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8036.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO + FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8035.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO + HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8034.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO + SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8033.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FAMILY FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8032.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FAMILY HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8031.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FAMILY SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8030.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8029.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8028.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MUNDI FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8027.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MUNDI HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8026.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO MUNDI SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8025.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO POP FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8024.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO POP HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8023.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO POP SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8022.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8021.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SIGNATURE FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8020.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SIGNATURE HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8019.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO SIGNATURE SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8018.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO XTREME FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8017.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO XTREME HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8016.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",HBO XTREME SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8015.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MEGAPIX FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8014.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MEGAPIX HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8013.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",MEGAPIX SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8012.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STAR CHANNEL FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8008.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STAR CHANNEL HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8007.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STAR CHANNEL SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8006.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STUDIO UNIVERSAL FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8005.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STUDIO UNIVERSAL HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8004.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",STUDIO UNIVERSAL SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8003.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE ACTION FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8002.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE ACTION HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8001.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE ACTION SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/8000.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE CULT FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7999.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE CULT HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7998.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE CULT SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7997.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE FUN FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7996.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE FUN HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7995.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE FUN SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7994.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PIPOCA  FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7993.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PIPOCA  HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7992.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PIPOCA  SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7991.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PREMIUM FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7990.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PREMIUM HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7989.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE PREMIUM SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7988.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE TOUCH FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7987.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE TOUCH HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7986.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TELECINE TOUCH SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7985.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7984.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7983.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7982.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SERIES FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7981.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SERIES HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7980.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",TNT SERIES SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7979.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",UNIVERSAL FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7978.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",UNIVERSAL HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7977.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",UNIVERSAL SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7976.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",WARNER CHANNEL FHD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7972.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",WARNER CHANNEL HD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7971.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",WARNER CHANNEL SD LEGENDADO
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/7970.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",REDETV FHD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4815.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",REDETV FHD H265
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4894.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",REDETV HD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3828.m3u8
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",REDETV SD
-http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3827.m3u8
+#EXTINF:-1,JOGOS DE HOJE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/339310.m3u8
+#EXTINF:-1,A&E FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81599.m3u8
+#EXTINF:-1,A&E
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13497.m3u8
+#EXTINF:-1,A&E FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/23156.m3u8
+#EXTINF:-1,A&E FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131105.m3u8
+#EXTINF:-1,A&E HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/23157.m3u8
+#EXTINF:-1,A&E HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35224.m3u8
+#EXTINF:-1,A&E HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35225.m3u8
+#EXTINF:-1,AXN FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81600.m3u8
+#EXTINF:-1,AXN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13500.m3u8
+#EXTINF:-1,AXN FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/23691.m3u8
+#EXTINF:-1,AXN FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131106.m3u8
+#EXTINF:-1,AXN HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/23692.m3u8
+#EXTINF:-1,AXN HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35228.m3u8
+#EXTINF:-1,AXN HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35229.m3u8
+#EXTINF:-1,AMC FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81601.m3u8
+#EXTINF:-1,AMC
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13498.m3u8
+#EXTINF:-1,AMC FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/23687.m3u8
+#EXTINF:-1,AMC FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131107.m3u8
+#EXTINF:-1,AMC HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/23688.m3u8
+#EXTINF:-1,AMC HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35226.m3u8
+#EXTINF:-1,AMC HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35227.m3u8
+#EXTINF:-1,ARTE 1 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/67511.m3u8
+#EXTINF:-1,ARTE 1 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/67512.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81602.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8718.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8719.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8720.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35234.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35235.m3u8
+#EXTINF:-1,CINEMAX FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107978.m3u8
+#EXTINF:-1,CINEMAX
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13505.m3u8
+#EXTINF:-1,CINEMAX FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8708.m3u8
+#EXTINF:-1,CINEMAX HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8709.m3u8
+#EXTINF:-1,CINEMAX HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35232.m3u8
+#EXTINF:-1,CINEMAX HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35233.m3u8
+#EXTINF:-1,CANAL BRASIL FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107979.m3u8
+#EXTINF:-1,CANAL BRASIL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8691.m3u8
+#EXTINF:-1,CANAL BRASIL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8692.m3u8
+#EXTINF:-1,CANAL BRASIL HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35230.m3u8
+#EXTINF:-1,CANAL BRASIL HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35231.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108179.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13546.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9007.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9008.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35240.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35241.m3u8
+#EXTINF:-1,SONY FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108180.m3u8
+#EXTINF:-1,SONY
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13584.m3u8
+#EXTINF:-1,SONY FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9098.m3u8
+#EXTINF:-1,SONY HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9099.m3u8
+#EXTINF:-1,SONY HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35242.m3u8
+#EXTINF:-1,SONY HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35243.m3u8
+#EXTINF:-1,SPACE FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108181.m3u8
+#EXTINF:-1,SPACE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13585.m3u8
+#EXTINF:-1,SPACE FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9101.m3u8
+#EXTINF:-1,SPACE FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131113.m3u8
+#EXTINF:-1,SPACE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9102.m3u8
+#EXTINF:-1,SPACE HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35244.m3u8
+#EXTINF:-1,SPACE HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35245.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108183.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9115.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9117.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35246.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35247.m3u8
+#EXTINF:-1,TNT NOVELAS FHD .265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/275102.m3u8
+#EXTINF:-1,TNT NOVELAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/275101.m3u8
+#EXTINF:-1,TNT NOVELAS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/275103.m3u8
+#EXTINF:-1,TNT NOVELAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/275104.m3u8
+#EXTINF:-1,TNT SÉRIES FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108184.m3u8
+#EXTINF:-1,TNT SÉRIES
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24156.m3u8
+#EXTINF:-1,TNT SÉRIES FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9144.m3u8
+#EXTINF:-1,TNT SÉRIES HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9145.m3u8
+#EXTINF:-1,TNT SÉRIES HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35254.m3u8
+#EXTINF:-1,TNT SÉRIES HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35255.m3u8
+#EXTINF:-1,TNT FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594019.m3u8
+#EXTINF:-1,TNT FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594020.m3u8
+#EXTINF:-1,TNT
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594021.m3u8
+#EXTINF:-1,TNT FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594022.m3u8
+#EXTINF:-1,TNT HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594023.m3u8
+#EXTINF:-1,TNT HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594024.m3u8
+#EXTINF:-1,TNT HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594025.m3u8
+#EXTINF:-1,TCM HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9124.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108185.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21683.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21682.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9212.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35256.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35257.m3u8
+#EXTINF:-1,MEGAPIX FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107982.m3u8
+#EXTINF:-1,MEGAPIX
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/43933.m3u8
+#EXTINF:-1,MEGAPIX FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8961.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8962.m3u8
+#EXTINF:-1,MEGAPIX HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35238.m3u8
+#EXTINF:-1,MEGAPIX HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35239.m3u8
+#EXTINF:-1,WARNER FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107981.m3u8
+#EXTINF:-1,WARNER
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21684.m3u8
+#EXTINF:-1,WARNER FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9219.m3u8
+#EXTINF:-1,WARNER HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9220.m3u8
+#EXTINF:-1,WARNER HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35258.m3u8
+#EXTINF:-1,WARNER HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35259.m3u8
+#EXTINF:-1,ANIMAL PLANET FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304490.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304493.m3u8
+#EXTINF:-1,ANIMAL PLANET FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304491.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304492.m3u8
+#EXTINF:-1,HISTORY FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304495.m3u8
+#EXTINF:-1,HISTORY
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304497.m3u8
+#EXTINF:-1,HISTORY FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304494.m3u8
+#EXTINF:-1,HISTORY HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304496.m3u8
+#EXTINF:-1,HISTORY 2 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304499.m3u8
+#EXTINF:-1,HISTORY 2
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304501.m3u8
+#EXTINF:-1,HISTORY 2 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304498.m3u8
+#EXTINF:-1,HISTORY 2 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304500.m3u8
+#EXTINF:-1,HGTV FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304506.m3u8
+#EXTINF:-1,HGTV FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304507.m3u8
+#EXTINF:-1,HGTV HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/304508.m3u8
+#EXTINF:-1,BAND SP FHD  H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107926.m3u8
+#EXTINF:-1,BAND SP FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20525.m3u8
+#EXTINF:-1,BAND SP FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/43031.m3u8
+#EXTINF:-1,BAND SP FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8659.m3u8
+#EXTINF:-1,BAND SP HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8660.m3u8
+#EXTINF:-1,BAND SP HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31029.m3u8
+#EXTINF:-1,BAND RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20524.m3u8
+#EXTINF:-1,BAND RJ HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/11724.m3u8
+#EXTINF:-1,BAND BAHIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91918.m3u8
+#EXTINF:-1,BAND CAMPINAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20522.m3u8
+#EXTINF:-1,BAND RS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/72575.m3u8
+#EXTINF:-1,BAND SPORTS FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81585.m3u8
+#EXTINF:-1,BAND SPORTS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8661.m3u8
+#EXTINF:-1,BAND SPORTS FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131128.m3u8
+#EXTINF:-1,BAND SPORTS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8662.m3u8
+#EXTINF:-1,BAND SPORTS HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30064.m3u8
+#EXTINF:-1,BAND SPORTS HD ³
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/26724.m3u8
+#EXTINF:-1,COMBATE  FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81586.m3u8
+#EXTINF:-1,COMBATE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13506.m3u8
+#EXTINF:-1,COMBATE FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8714.m3u8
+#EXTINF:-1,COMBATE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8716.m3u8
+#EXTINF:-1,COMBATE HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30066.m3u8
+#EXTINF:-1,COMBATE HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30067.m3u8
+#EXTINF:-1,BAND NEWS FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81596.m3u8
+#EXTINF:-1,BAND NEWS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108367.m3u8
+#EXTINF:-1,BAND NEWS FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131134.m3u8
+#EXTINF:-1,BAND NEWS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/11769.m3u8
+#EXTINF:-1,BAND NEWS HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30171.m3u8
+#EXTINF:-1,CNN BRASIL FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81597.m3u8
+#EXTINF:-1,CNN BRASIL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8711.m3u8
+#EXTINF:-1,CNN BRASIL FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131135.m3u8
+#EXTINF:-1,CNN BRASIL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8712.m3u8
+#EXTINF:-1,CNN BRASIL HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30166.m3u8
+#EXTINF:-1,CNN BRASIL HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30167.m3u8
+#EXTINF:-1,UOL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594601.m3u8
+#EXTINF:-1,UOL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594602.m3u8
+#EXTINF:-1,JOVEM PAN NEWS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108191.m3u8
+#EXTINF:-1,JOVEM PAN FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/167984.m3u8
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107918.m3u8
+#EXTINF:-1,JOVEM PAN HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/167985.m3u8
+#EXTINF:-1,GLOBO NEWS FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81598.m3u8
+#EXTINF:-1,GLOBO NEWS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13523.m3u8
+#EXTINF:-1,GLOBO NEWS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8853.m3u8
+#EXTINF:-1,GLOBO NEWS FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131137.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8854.m3u8
+#EXTINF:-1,GLOBO NEWS HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30168.m3u8
+#EXTINF:-1,GLOBO NEWS HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30169.m3u8
+#EXTINF:-1,RECORD NEWS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9058.m3u8
+#EXTINF:-1,RECORD NEWS FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131143.m3u8
+#EXTINF:-1,RECORD NEWS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9057.m3u8
+#EXTINF:-1,RECORD NEWS HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30170.m3u8
+#EXTINF:-1,CARTOON NETWOORK FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125439.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13504.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8698.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8699.m3u8
+#EXTINF:-1,CARTOON NETWOORK HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/38015.m3u8
+#EXTINF:-1,CARTOON NETWOORK HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/38016.m3u8
+#EXTINF:-1,CARTOONITO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13503.m3u8
+#EXTINF:-1,CARTOONITO FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8687.m3u8
+#EXTINF:-1,CARTOONITO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8688.m3u8
+#EXTINF:-1,CARTOONITO HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/38013.m3u8
+#EXTINF:-1,CARTOONITO HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/106287.m3u8
+#EXTINF:-1,DISCOVERY KIDS FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125440.m3u8
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8742.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8743.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/38017.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/38018.m3u8
+#EXTINF:-1,GLOOB
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13526.m3u8
+#EXTINF:-1,GLOOB HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8888.m3u8
+#EXTINF:-1,GLOOB FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8887.m3u8
+#EXTINF:-1,GLOOBINHO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69036.m3u8
+#EXTINF:-1,GLOOBINHO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69037.m3u8
+#EXTINF:-1,TOONSCAST
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125444.m3u8
+#EXTINF:-1,TOONCAST FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125443.m3u8
+#EXTINF:-1,TOONCAST FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131167.m3u8
+#EXTINF:-1,TOONCAST HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9150.m3u8
+#EXTINF:-1,NICK JR FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125447.m3u8
+#EXTINF:-1,NICK JR
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8990.m3u8
+#EXTINF:-1,NICK JR FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13544.m3u8
+#EXTINF:-1,NICK JR HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8986.m3u8
+#EXTINF:-1,NICKELODEON FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125446.m3u8
+#EXTINF:-1,NICKELODEON
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13545.m3u8
+#EXTINF:-1,NICKELODEON FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8988.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8989.m3u8
+#EXTINF:-1,WOOHOO FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125448.m3u8
+#EXTINF:-1,WOOHOO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9224.m3u8
+#EXTINF:-1,ZOOMOO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9230.m3u8
+#EXTINF:-1,MAIS NA TELA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93916.m3u8
+#EXTINF:-1,MODO VIAGEM FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8883.m3u8
+#EXTINF:-1,MODO VIAGEM HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/92649.m3u8
+#EXTINF:-1,BIS FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107985.m3u8
+#EXTINF:-1,BIS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13502.m3u8
+#EXTINF:-1,BIS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8680.m3u8
+#EXTINF:-1,BIS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8681.m3u8
+#EXTINF:-1,CURTA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12948.m3u8
+#EXTINF:-1,CURTA ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13507.m3u8
+#EXTINF:-1,E! FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8782.m3u8
+#EXTINF:-1,E! HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8783.m3u8
+#EXTINF:-1,FISH TV FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8807.m3u8
+#EXTINF:-1,FISH TV HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8808.m3u8
+#EXTINF:-1,FOOD NETWOORK
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13522.m3u8
+#EXTINF:-1,FOOD NETWORK FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8811.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8810.m3u8
+#EXTINF:-1,GNT FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107984.m3u8
+#EXTINF:-1,GNT
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13527.m3u8
+#EXTINF:-1,GNT FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8891.m3u8
+#EXTINF:-1,GNT HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8890.m3u8
+#EXTINF:-1,GNT HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/66901.m3u8
+#EXTINF:-1,GNT HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/66902.m3u8
+#EXTINF:-1,OFF
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8996.m3u8
+#EXTINF:-1,OFF FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8997.m3u8
+#EXTINF:-1,OFF HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8998.m3u8
+#EXTINF:-1,TRU TV
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12953.m3u8
+#EXTINF:-1,LIFETIME FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8943.m3u8
+#EXTINF:-1,LIFETIME HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8944.m3u8
+#EXTINF:-1,LIFETIME
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13538.m3u8
+#EXTINF:-1,VIVA FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/107983.m3u8
+#EXTINF:-1,VIVA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13496.m3u8
+#EXTINF:-1,VIVA ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/43930.m3u8
+#EXTINF:-1,VIVA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9215.m3u8
+#EXTINF:-1,VIVA FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131428.m3u8
+#EXTINF:-1,VIVA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9216.m3u8
+#EXTINF:-1,VIVA HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/33453.m3u8
+#EXTINF:-1,CINE SKY 01
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13071.m3u8
+#EXTINF:-1,CINE SKY 02
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13072.m3u8
+#EXTINF:-1,CINE SKY 03
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13073.m3u8
+#EXTINF:-1,CINE SKY 05
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13075.m3u8
+#EXTINF:-1,NOSSO FUTEBOL 01
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/227505.m3u8
+#EXTINF:-1,NOSSO FUTEBOL 02
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/227506.m3u8
+#EXTINF:-1,NOSSO FUTEBOL 03
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/227508.m3u8
+#EXTINF:-1,CAZÉ TV HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/227520.m3u8
+#EXTINF:-1,CAZÉ TV HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245798.m3u8
+#EXTINF:-1,CAZE TV FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245797.m3u8
+#EXTINF:-1,MAX 1 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594007.m3u8
+#EXTINF:-1,MAX 01 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594008.m3u8
+#EXTINF:-1,MAX 2 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594009.m3u8
+#EXTINF:-1,MAX 02 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594010.m3u8
+#EXTINF:-1,MAX 3 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594011.m3u8
+#EXTINF:-1,MAX 03 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594012.m3u8
+#EXTINF:-1,MAX 4 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594013.m3u8
+#EXTINF:-1,MAX 04 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594014.m3u8
+#EXTINF:-1,MAX 5 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594015.m3u8
+#EXTINF:-1,MAX 05 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594016.m3u8
+#EXTINF:-1,MAX 6 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594017.m3u8
+#EXTINF:-1,MAX 06 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594018.m3u8
+#EXTINF:-1,CAMPEONATO PAULISTA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/592536.m3u8
+#EXTINF:-1,WWE NETFLIX
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/591951.m3u8
+#EXTINF:-1,YOUTUBE 01 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/289545.m3u8
+#EXTINF:-1,CANAL GOAT 01
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/275100.m3u8
+#EXTINF:-1,CANAL GOAT 02
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/289540.m3u8
+#EXTINF:-1,CANAL GOAT 03
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/289541.m3u8
+#EXTINF:-1,CANAL GOAT 04
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/289542.m3u8
+#EXTINF:-1,COPA VERDE 02 2023
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/246295.m3u8
+#EXTINF:-1,GALVÃO BUENO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/246221.m3u8
+#EXTINF:-1,APPLE TV 01 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/257414.m3u8
+#EXTINF:-1,UFC FIGHT PASS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/225501.m3u8
+#EXTINF:-1,UFC FIGHT PASS ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245774.m3u8
+#EXTINF:-1,UFC FIGHT PASS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245775.m3u8
+#EXTINF:-1,FURACÃO LIVE FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/97880.m3u8
+#EXTINF:-1,FURACÃO LIVE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/97881.m3u8
+#EXTINF:-1,DAZN FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/54928.m3u8
+#EXTINF:-1,DAZN 2
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21645.m3u8
+#EXTINF:-1,DAZN 3 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91905.m3u8
+#EXTINF:-1,DAZN 4 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91906.m3u8
+#EXTINF:-1,DAZN 6 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/161322.m3u8
+#EXTINF:-1,DAZN 7 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/161323.m3u8
+#EXTINF:-1,DAZN 8 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/161324.m3u8
+#EXTINF:-1,DAZN 9 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/161325.m3u8
+#EXTINF:-1,DAZN 10 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/161326.m3u8
+#EXTINF:-1,PARAMOUNT + 1
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/240737.m3u8
+#EXTINF:-1,PARAMOUNT + 2
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/240739.m3u8
+#EXTINF:-1,PARAMOUNT + 3
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/295698.m3u8
+#EXTINF:-1,PARAMOUNT + 4
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/295699.m3u8
+#EXTINF:-1,PARAMOUNT + 5
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/295700.m3u8
+#EXTINF:-1,PARAMOUNT + 6
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/295701.m3u8
+#EXTINF:-1,PARAMOUNT + 7
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/295702.m3u8
+#EXTINF:-1,PARAMOUNT + 8
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/295703.m3u8
+#EXTINF:-1,PARAMOUNT + 9
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/295704.m3u8
+#EXTINF:-1,PRIME VIDEO 01
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/292698.m3u8
+#EXTINF:-1,PRIME VIDEO 02
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/121180.m3u8
+#EXTINF:-1,PRIME VIDEO 03
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/121216.m3u8
+#EXTINF:-1,PRIME VIDEO 04
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/121217.m3u8
+#EXTINF:-1,PRIME VIDEO 05
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/246819.m3u8
+#EXTINF:-1,CULTURA PA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21022.m3u8
+#EXTINF:-1,CANAL DO BOI
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/89852.m3u8
+#EXTINF:-1,CANAL RURAL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/291515.m3u8
+#EXTINF:-1,TV RA TIM BUM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9193.m3u8
+#EXTINF:-1,TV BRASIL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/43030.m3u8
+#EXTINF:-1,TV BRASIL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/33013.m3u8
+#EXTINF:-1,TV GAZETA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/67852.m3u8
+#EXTINF:-1,TV SENADO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69027.m3u8
+#EXTINF:-1,TV DIÁRIO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69243.m3u8
+#EXTINF:-1,TV CÂMARA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69905.m3u8
+#EXTINF:-1,TV JUSTIÇA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69907.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91396.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13508.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/43928.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8735.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131176.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8736.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30148.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91397.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20757.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8739.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALT FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131177.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8740.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALT HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93902.m3u8
+#EXTINF:-1,DISCOVERY  HOME & HEALTH HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30149.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91402.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13509.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8745.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8746.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93903.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30151.m3u8
+#EXTINF:-1,DISCOVERY THEATER FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91401.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13510.m3u8
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8748.m3u8
+#EXTINF:-1,DISCOVERY THEATER FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131179.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8751.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93904.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30153.m3u8
+#EXTINF:-1,DISCOVERY TLC FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91400.m3u8
+#EXTINF:-1,DISCOVERY TLC
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13511.m3u8
+#EXTINF:-1,DISCOVERY TLC FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8753.m3u8
+#EXTINF:-1,DISCOVERY TLC FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131180.m3u8
+#EXTINF:-1,DISCOVERY TLC HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8754.m3u8
+#EXTINF:-1,DISCOVERY TURBO FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91399.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13512.m3u8
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8755.m3u8
+#EXTINF:-1,DISCOVERY TURBO FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131181.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8756.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30156.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30155.m3u8
+#EXTINF:-1,DISCOVERY WORLD FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91398.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13513.m3u8
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8758.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8759.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93905.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30157.m3u8
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91403.m3u8
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8932.m3u8
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131183.m3u8
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8933.m3u8
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8934.m3u8
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD ³
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30172.m3u8
+#EXTINF:-1,ESPN FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598912.m3u8
+#EXTINF:-1,ESPN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598913.m3u8
+#EXTINF:-1,ESPN FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598914.m3u8
+#EXTINF:-1,ESPN FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598915.m3u8
+#EXTINF:-1,ESPN HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598916.m3u8
+#EXTINF:-1,ESPN HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598917.m3u8
+#EXTINF:-1,ESPN HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598918.m3u8
+#EXTINF:-1,ESPN 2 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81587.m3u8
+#EXTINF:-1,ESPN 2
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13519.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8786.m3u8
+#EXTINF:-1,ESPN 2 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131131.m3u8
+#EXTINF:-1,ESPN 2 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30072.m3u8
+#EXTINF:-1,ESPN 2 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30071.m3u8
+#EXTINF:-1,ESPN 3 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81588.m3u8
+#EXTINF:-1,ESPN 3
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13520.m3u8
+#EXTINF:-1,ESPN 3 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8788.m3u8
+#EXTINF:-1,ESPN 3 FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131132.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8787.m3u8
+#EXTINF:-1,ESPN 3 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30073.m3u8
+#EXTINF:-1,ESPN 3 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30074.m3u8
+#EXTINF:-1,ESPN 4 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81578.m3u8
+#EXTINF:-1,ESPN 4
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21647.m3u8
+#EXTINF:-1,ESPN 4 ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/26726.m3u8
+#EXTINF:-1,ESPN 4 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8828.m3u8
+#EXTINF:-1,ESPN 4 FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131133.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20947.m3u8
+#EXTINF:-1,ESPN 4 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30083.m3u8
+#EXTINF:-1,ESPN 4 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30082.m3u8
+#EXTINF:-1,ESPN 5 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81594.m3u8
+#EXTINF:-1,ESPN 5
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20946.m3u8
+#EXTINF:-1,ESPN 5 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8826.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8827.m3u8
+#EXTINF:-1,ESPN 5  HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30081.m3u8
+#EXTINF:-1,ESPN 5 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30084.m3u8
+#EXTINF:-1,ESPN 6 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81590.m3u8
+#EXTINF:-1,ESPN 6 FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131138.m3u8
+#EXTINF:-1,ESPN 6  HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8794.m3u8
+#EXTINF:-1,ESPN 6 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30077.m3u8
+#EXTINF:-1,EVANGELIZAR HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20532.m3u8
+#EXTINF:-1,REDE GOSPEL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9069.m3u8
+#EXTINF:-1,REDE VIDA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69259.m3u8
+#EXTINF:-1,REDE VIDA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9076.m3u8
+#EXTINF:-1,REDE SUPER HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/210171.m3u8
+#EXTINF:-1,TV PAI ETERNO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9192.m3u8
+#EXTINF:-1,TV APARECIDA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/66680.m3u8
+#EXTINF:-1,TV APARECIDA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30147.m3u8
+#EXTINF:-1,CANÇÃO NOVA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/117823.m3u8
+#EXTINF:-1,CANÇÃO NOVA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/117824.m3u8
+#EXTINF:-1,TV EVANGELIZAR HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69257.m3u8
+#EXTINF:-1,TV PAI ETERNO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69265.m3u8
+#EXTINF:-1,NOVO TEMPO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21019.m3u8
+#EXTINF:-1,RIT TV
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/124550.m3u8
+#EXTINF:-1,GLOBO SP FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81576.m3u8
+#EXTINF:-1,GLOBO SP FHD H.265*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131184.m3u8
+#EXTINF:-1,GLOBO SP FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21675.m3u8
+#EXTINF:-1,GLOBO SP FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13525.m3u8
+#EXTINF:-1,GLOBO SP FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30113.m3u8
+#EXTINF:-1,GLOBO SP HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30117.m3u8
+#EXTINF:-1,GLOBO SP HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9242.m3u8
+#EXTINF:-1,GLOBO SP HD ³
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30115.m3u8
+#EXTINF:-1,GLOBO SP HD ³
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21676.m3u8
+#EXTINF:-1,GLOBO RJ FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81577.m3u8
+#EXTINF:-1,GLOBO RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13524.m3u8
+#EXTINF:-1,GLOBO RJ FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8866.m3u8
+#EXTINF:-1,GLOBO RJ HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8868.m3u8
+#EXTINF:-1,GLOBO RJ HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30105.m3u8
+#EXTINF:-1,GLOBO RJ HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30110.m3u8
+#EXTINF:-1,GLOBO ANHANGUERA ANAPOLIS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125460.m3u8
+#EXTINF:-1,GLOBO ANHANGUERA ITUMBIARA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125464.m3u8
+#EXTINF:-1,GLOBO BRASILIA FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125449.m3u8
+#EXTINF:-1,GLOBO BRASILIA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21655.m3u8
+#EXTINF:-1,GLOBO BRASILIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8841.m3u8
+#EXTINF:-1,GLOBO BRASILIA HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93891.m3u8
+#EXTINF:-1,GLOBO BAHIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21652.m3u8
+#EXTINF:-1,GLOBO BAHIA HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30085.m3u8
+#EXTINF:-1,GLOBO BELEM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12939.m3u8
+#EXTINF:-1,GLOBO BELEM ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21654.m3u8
+#EXTINF:-1,GLOBO TV LIBERAL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/80095.m3u8
+#EXTINF:-1,GLOBO CABUGI
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/210322.m3u8
+#EXTINF:-1,GLOBO CABUGI HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/210323.m3u8
+#EXTINF:-1,GLOBO CABUGI FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/40950.m3u8
+#EXTINF:-1,GLOBO CABUGI FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/210324.m3u8
+#EXTINF:-1,GLOBO CABUGI HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/210325.m3u8
+#EXTINF:-1,GLOBO CABUGI HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/210326.m3u8
+#EXTINF:-1,GLOBO CABUGI HD ³
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/210327.m3u8
+#EXTINF:-1,GLOBO CABO BRANCO JOAO PESSOA  FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125468.m3u8
+#EXTINF:-1,GLOBO CABO BRANCO JOAO PESSOA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125469.m3u8
+#EXTINF:-1,GLOBO CABO BRANCO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12997.m3u8
+#EXTINF:-1,GLOBO NORDESTE FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81628.m3u8
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21666.m3u8
+#EXTINF:-1,GLOBO NORDESTE HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8858.m3u8
+#EXTINF:-1,GLOBO NORDESTE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30096.m3u8
+#EXTINF:-1,GLOBO REDE AMAZÔNICA PORTO VELHO FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93398.m3u8
+#EXTINF:-1,GLOBO REDE AMAZONICA RIO BRANCO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245782.m3u8
+#EXTINF:-1,GLOBO RBS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8860.m3u8
+#EXTINF:-1,GLOBO RBS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8861.m3u8
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/228002.m3u8
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30099.m3u8
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8862.m3u8
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21669.m3u8
+#EXTINF:-1,GLOBO RPC TV CORITIBA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69050.m3u8
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245373.m3u8
+#EXTINF:-1,GLOBO SERGIPE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20586.m3u8
+#EXTINF:-1,GLOBO TV MORENA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125452.m3u8
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/88434.m3u8
+#EXTINF:-1,GLOBO FLORIANOPOLIS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12938.m3u8
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30093.m3u8
+#EXTINF:-1,GLOBO MINAS FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125450.m3u8
+#EXTINF:-1,GLOBO MINAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/71816.m3u8
+#EXTINF:-1,GLOBO MINAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/71815.m3u8
+#EXTINF:-1,GLOBO MINAS HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21663.m3u8
+#EXTINF:-1,GLOBO VERDES MARES FORTALEZA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21678.m3u8
+#EXTINF:-1,GLOBO VERDES MARES FORTALEZA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30118.m3u8
+#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/67170.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA MANAUS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603912.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA MANAUS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603918.m3u8
+#EXTINF:-1,GLOBO RIO SUL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21672.m3u8
+#EXTINF:-1,GLOBO ASA BRANCA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/102921.m3u8
+#EXTINF:-1,GLOBO ALAGOAS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125456.m3u8
+#EXTINF:-1,GLOBO ALAGOAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125457.m3u8
+#EXTINF:-1,GLOBO ANHANGUERA GOIÂNIA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/561889.m3u8
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21653.m3u8
+#EXTINF:-1,GLOBO CENTRO AMERICA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12940.m3u8
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8846.m3u8
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8845.m3u8
+#EXTINF:-1,GLOBO GAZETA ESPIRITO SANTO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598393.m3u8
+#EXTINF:-1,GLOBO GAZETA NOROESTE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598394.m3u8
+#EXTINF:-1,GLOBO GAZETA NORTE ESPIRITO SANTO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598395.m3u8
+#EXTINF:-1,GLOBO GAZETA SUL ESPIRITO SANTO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598396.m3u8
+#EXTINF:-1,GLOBO GAZETA ALAGOAS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125466.m3u8
+#EXTINF:-1,GLOBO GAZETA ALAGOAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125467.m3u8
+#EXTINF:-1,GLOBO NSC TV SANTA CATARINA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/241178.m3u8
+#EXTINF:-1,GLOBO NSC TV CHAPECO FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/218361.m3u8
+#EXTINF:-1,GLOBO NSC CHAPECO FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/106098.m3u8
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/218360.m3u8
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/89811.m3u8
+#EXTINF:-1,GLOBO NSC BLUMENAL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69214.m3u8
+#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245358.m3u8
+#EXTINF:-1,GLOBO NSC TV CRICIUMA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245360.m3u8
+#EXTINF:-1,GLOBO  NSC TV FLORIANOPOLIS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245361.m3u8
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245362.m3u8
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91912.m3u8
+#EXTINF:-1,GLOBO RBS TV SANTA MARIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91914.m3u8
+#EXTINF:-1,GLOBO RBS TV BAGE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245363.m3u8
+#EXTINF:-1,GLOBO RBS TV CRUZ ALTA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245364.m3u8
+#EXTINF:-1,GLOBO RBS TV DOS VALES HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245365.m3u8
+#EXTINF:-1,GLOBO RBS TV ERECHIM HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245366.m3u8
+#EXTINF:-1,GLOBO RBS TV RIO GRANDE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245369.m3u8
+#EXTINF:-1,GLOBO RBS TV URUGUAIANA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245370.m3u8
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69048.m3u8
+#EXTINF:-1,GLOBO RECIFE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8863.m3u8
+#EXTINF:-1,GLOBO RECIFE FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93285.m3u8
+#EXTINF:-1,GLOBO RPC PARANA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69047.m3u8
+#EXTINF:-1,GLOBO RIBEIRAO PRETO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8864.m3u8
+#EXTINF:-1,GLOBO RIBEIRÃO PRETO ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21670.m3u8
+#EXTINF:-1,GLOBO PARAIBA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125451.m3u8
+#EXTINF:-1,GLOBO PIAUI TV CLUBE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94201.m3u8
+#EXTINF:-1,GLOBO SUBAE BAHIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91916.m3u8
+#EXTINF:-1,GLOBO SANTA CRUZ HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91911.m3u8
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8877.m3u8
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/105541.m3u8
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/11728.m3u8
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/113210.m3u8
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/243509.m3u8
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8878.m3u8
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/113941.m3u8
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/21681.m3u8
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8879.m3u8
+#EXTINF:-1,GLOBO VANGUARDA TV S.J DOS CAMPOS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/20541.m3u8
+#EXTINF:-1,GLOBO VANGUARDA TV S.J DOS CAMPOS HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/71480.m3u8
+#EXTINF:-1,GLOBO NATAL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/225834.m3u8
+#EXTINF:-1,GLOBO VERDES MARES CARIRI HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/245371.m3u8
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/217495.m3u8
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/217496.m3u8
+#EXTINF:-1,GLOBO INTEGRAÇÃO JUIZ DE FORA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/124548.m3u8
+#EXTINF:-1,GLOBO INTEGRAÇÃO JUIZ DE FORA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/124549.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA MACAPÁ HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603911.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA PARINTINS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603913.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA PORTO VELHO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603914.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA RIO BRANCO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603915.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA VILHENA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603916.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA MACAPÁ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603917.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA PARINTINS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603919.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA PORTO VELHO FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603920.m3u8
+#EXTINF:-1,GLOBO AMAZÔNICA BOA VISTA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/603921.m3u8
+#EXTINF:-1,HBO FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94381.m3u8
+#EXTINF:-1,HBO FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8902.m3u8
+#EXTINF:-1,HBO HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8903.m3u8
+#EXTINF:-1,HBO HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31862.m3u8
+#EXTINF:-1,HBO HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31863.m3u8
+#EXTINF:-1,HBO 2 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94382.m3u8
+#EXTINF:-1,HBO 2
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13529.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8897.m3u8
+#EXTINF:-1,HBO 2 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8898.m3u8
+#EXTINF:-1,HBO 2 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31859.m3u8
+#EXTINF:-1,HBO 2 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93899.m3u8
+#EXTINF:-1,HBO FAMILY FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94383.m3u8
+#EXTINF:-1,HBO FAMILY
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13530.m3u8
+#EXTINF:-1,HBO FAMILY FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8901.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8900.m3u8
+#EXTINF:-1,HBO FAMILY HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31860.m3u8
+#EXTINF:-1,HBO FAMILY HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31861.m3u8
+#EXTINF:-1,HBO MUNDI FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94384.m3u8
+#EXTINF:-1,HBO MUNDI
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13531.m3u8
+#EXTINF:-1,HBO MUNDI FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8904.m3u8
+#EXTINF:-1,HBO MUNDI HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8905.m3u8
+#EXTINF:-1,HBO MUNDI HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31864.m3u8
+#EXTINF:-1,HBO MUNDI HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93900.m3u8
+#EXTINF:-1,HBO POP FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94386.m3u8
+#EXTINF:-1,HBO POP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13533.m3u8
+#EXTINF:-1,HBO POP FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24593.m3u8
+#EXTINF:-1,HBO POP HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8911.m3u8
+#EXTINF:-1,HBO POP HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31867.m3u8
+#EXTINF:-1,HBO POP HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93901.m3u8
+#EXTINF:-1,HBO SIGNATURE FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94387.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13534.m3u8
+#EXTINF:-1,HBO SIGNATURE FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8912.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8914.m3u8
+#EXTINF:-1,HBO SIGNATURE HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31868.m3u8
+#EXTINF:-1,HBO SIGNATURE HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31869.m3u8
+#EXTINF:-1,HBO PLUS FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94385.m3u8
+#EXTINF:-1,HBO PLUS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24592.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/11771.m3u8
+#EXTINF:-1,HBO PLUS HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31865.m3u8
+#EXTINF:-1,HBO PLUS HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31866.m3u8
+#EXTINF:-1,HBO XTREME
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13536.m3u8
+#EXTINF:-1,HBO XTREME FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13535.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8916.m3u8
+#EXTINF:-1,HBO XTREME HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/31870.m3u8
+#EXTINF:-1,PREMIERE CLUBES FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/125438.m3u8
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9037.m3u8
+#EXTINF:-1,PREMIERE CLUBES FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30043.m3u8
+#EXTINF:-1,PREMIERE CLUBES FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/54902.m3u8
+#EXTINF:-1,PREMIERE CLUBES HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94194.m3u8
+#EXTINF:-1,PREMIERE CLUBES HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91393.m3u8
+#EXTINF:-1,PREMIERE CLUBES HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/54903.m3u8
+#EXTINF:-1,PREMIERE CLUBES
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13583.m3u8
+#EXTINF:-1,PREMIERE 2 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81582.m3u8
+#EXTINF:-1,PREMIERE 2 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9022.m3u8
+#EXTINF:-1,PREMIERE 2 FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13576.m3u8
+#EXTINF:-1,PREMIERE 2 FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69097.m3u8
+#EXTINF:-1,PREMIERE 2 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69028.m3u8
+#EXTINF:-1,PREMIERE 2 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69029.m3u8
+#EXTINF:-1,PREMIERE 2 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9021.m3u8
+#EXTINF:-1,PREMIERE 2 HD ³
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108294.m3u8
+#EXTINF:-1,PREMIERE 3 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81583.m3u8
+#EXTINF:-1,PREMIERE 3 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13577.m3u8
+#EXTINF:-1,PREMIERE 3 FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69030.m3u8
+#EXTINF:-1,PREMIERE 3 FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30050.m3u8
+#EXTINF:-1,PREMIERE 3 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69031.m3u8
+#EXTINF:-1,PREMIERE 3 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30051.m3u8
+#EXTINF:-1,PREMIERE 3 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9026.m3u8
+#EXTINF:-1,PREMIERE 3 HD ³
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24152.m3u8
+#EXTINF:-1,PREMIERE 3 HD.
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9024.m3u8
+#EXTINF:-1,PREMIERE 4 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81616.m3u8
+#EXTINF:-1,PREMIERE 4 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108295.m3u8
+#EXTINF:-1,PREMIERE 4 FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108296.m3u8
+#EXTINF:-1,PREMIERE 4 FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108299.m3u8
+#EXTINF:-1,PREMIERE 4 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108297.m3u8
+#EXTINF:-1,PREMIERE 4 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108298.m3u8
+#EXTINF:-1,PREMIERE 4 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108300.m3u8
+#EXTINF:-1,PREMIERE 5 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/82751.m3u8
+#EXTINF:-1,PREMIERE 5 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108301.m3u8
+#EXTINF:-1,PREMIERE 5 FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108302.m3u8
+#EXTINF:-1,PREMIERE 5 FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108305.m3u8
+#EXTINF:-1,PREMIERE 5 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108303.m3u8
+#EXTINF:-1,PREMIERE 5 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108304.m3u8
+#EXTINF:-1,PREMIERE 5 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108306.m3u8
+#EXTINF:-1,PREMIERE 6 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/82753.m3u8
+#EXTINF:-1,PREMIERE 6 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108307.m3u8
+#EXTINF:-1,PREMIERE 6 FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108308.m3u8
+#EXTINF:-1,PREMIERE 6 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108309.m3u8
+#EXTINF:-1,PREMIERE 6 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108310.m3u8
+#EXTINF:-1,PREMIERE 6 FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108311.m3u8
+#EXTINF:-1,PREMIERE 6 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108312.m3u8
+#EXTINF:-1,PREMIERE 7 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108313.m3u8
+#EXTINF:-1,PREMIERE 7 FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108314.m3u8
+#EXTINF:-1,PREMIERE 7 FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108317.m3u8
+#EXTINF:-1,PREMIERE 7 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108315.m3u8
+#EXTINF:-1,PREMIERE 7 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108316.m3u8
+#EXTINF:-1,PREMIERE 7 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108318.m3u8
+#EXTINF:-1,PREMIERE 8 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13582.m3u8
+#EXTINF:-1,PREMIERE 8 FHD MOSAICO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30063.m3u8
+#EXTINF:-1,PREMIERE 8 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9036.m3u8
+#EXTINF:-1,RECORD SP FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/82755.m3u8
+#EXTINF:-1,RECORD SP FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9068.m3u8
+#EXTINF:-1,RECORD SP HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12888.m3u8
+#EXTINF:-1,RECORD SP HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/38065.m3u8
+#EXTINF:-1,RECORD HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/38066.m3u8
+#EXTINF:-1,RECORD HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35842.m3u8
+#EXTINF:-1,RECORD GOIAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/106096.m3u8
+#EXTINF:-1,RECORD GOIAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/106097.m3u8
+#EXTINF:-1,RECORD MINAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9055.m3u8
+#EXTINF:-1,RECORD MINAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9054.m3u8
+#EXTINF:-1,RECORD RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/106095.m3u8
+#EXTINF:-1,RECORD RJ FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/71697.m3u8
+#EXTINF:-1,RECORD RJ HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9063.m3u8
+#EXTINF:-1,RECORD BELEM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/241952.m3u8
+#EXTINF:-1,RECORD BAHIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/291650.m3u8
+#EXTINF:-1,RECORD BAHIA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12987.m3u8
+#EXTINF:-1,RECORD BAHIA ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/291649.m3u8
+#EXTINF:-1,RECORD BRASILIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/12988.m3u8
+#EXTINF:-1,RECORD SANTA CATARINA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/241179.m3u8
+#EXTINF:-1,RECORD NSC SANTA CATARINA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/291659.m3u8
+#EXTINF:-1,RECORD SANTA CATARINA HD¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/291660.m3u8
+#EXTINF:-1,RECORD RS FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/160052.m3u8
+#EXTINF:-1,RECORD RS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9065.m3u8
+#EXTINF:-1,RECORD RS HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/160053.m3u8
+#EXTINF:-1,RECORD TROPICAL FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/225833.m3u8
+#EXTINF:-1,RECORD TV PARANA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/93892.m3u8
+#EXTINF:-1,RECORD SERGIPE - ATALAIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/291656.m3u8
+#EXTINF:-1,RECORD TV MINAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/291658.m3u8
+#EXTINF:-1,RECORD MINAS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/364359.m3u8
+#EXTINF:-1,RECORD MINAS SD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/364360.m3u8
+#EXTINF:-1,RECORD GOIAS SD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/364364.m3u8
+#EXTINF:-1,REDETV FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9074.m3u8
+#EXTINF:-1,REDETV FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/29125.m3u8
+#EXTINF:-1,REDETV HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9073.m3u8
+#EXTINF:-1,REDETV HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/33455.m3u8
+#EXTINF:-1,SBT FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9082.m3u8
+#EXTINF:-1,SBT FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81580.m3u8
+#EXTINF:-1,SBT FHD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81610.m3u8
+#EXTINF:-1,SBT
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/26722.m3u8
+#EXTINF:-1,SBT HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9084.m3u8
+#EXTINF:-1,SBT HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30120.m3u8
+#EXTINF:-1,SBT  HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9092.m3u8
+#EXTINF:-1,SBT RJ FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131563.m3u8
+#EXTINF:-1,SBT RJ FHD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131564.m3u8
+#EXTINF:-1,SBT RJ HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/35844.m3u8
+#EXTINF:-1,SBT RJ HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131565.m3u8
+#EXTINF:-1,SBT JANGADEIRO FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595274.m3u8
+#EXTINF:-1,SBT PIAUI HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131432.m3u8
+#EXTINF:-1,SBT ARATU BAHIA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/108770.m3u8
+#EXTINF:-1,SBT RS HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91907.m3u8
+#EXTINF:-1,SBT PARANA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/88432.m3u8
+#EXTINF:-1,SPORTV FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81591.m3u8
+#EXTINF:-1,SPORTV
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/69096.m3u8
+#EXTINF:-1,SPORTV ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/91919.m3u8
+#EXTINF:-1,SPORTV FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9107.m3u8
+#EXTINF:-1,SPORTV FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131140.m3u8
+#EXTINF:-1,SPORTV HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9111.m3u8
+#EXTINF:-1,SPORTV HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30126.m3u8
+#EXTINF:-1,SPORTV HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30127.m3u8
+#EXTINF:-1,SPORTV 2 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81592.m3u8
+#EXTINF:-1,SPORTV 2
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13586.m3u8
+#EXTINF:-1,SPORTV 2 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9103.m3u8
+#EXTINF:-1,SPORTV 2 FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131141.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9104.m3u8
+#EXTINF:-1,SPORTV 2 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30122.m3u8
+#EXTINF:-1,SPORTV 2 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30123.m3u8
+#EXTINF:-1,SPORTV 3 FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/81593.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9106.m3u8
+#EXTINF:-1,SPORTV 3 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9105.m3u8
+#EXTINF:-1,SPORTV 3 FHD*
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/131142.m3u8
+#EXTINF:-1,SPORTV 3 HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30124.m3u8
+#EXTINF:-1,SPORTV 3 HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30125.m3u8
+#EXTINF:-1,SPORTV 4 FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/570369.m3u8
+#EXTINF:-1,TELECINE ACTION FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94375.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24533.m3u8
+#EXTINF:-1,TELECINE ACTION FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9126.m3u8
+#EXTINF:-1,TELECINE ACTION HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9127.m3u8
+#EXTINF:-1,TELECINE ACTION HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30134.m3u8
+#EXTINF:-1,TELECINE ACTION HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30135.m3u8
+#EXTINF:-1,TELECINE CULT FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94376.m3u8
+#EXTINF:-1,TELECINE CULT
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24534.m3u8
+#EXTINF:-1,TELECINE CULT FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/11770.m3u8
+#EXTINF:-1,TELECINE CULT HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9128.m3u8
+#EXTINF:-1,TELECINE CULT HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30136.m3u8
+#EXTINF:-1,TELECINE CULT HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30137.m3u8
+#EXTINF:-1,TELECINE FUN FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94377.m3u8
+#EXTINF:-1,TELECINE FUN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24535.m3u8
+#EXTINF:-1,TELECINE FUN FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9129.m3u8
+#EXTINF:-1,TELECINE FUN HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9130.m3u8
+#EXTINF:-1,TELECINE FUN HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30138.m3u8
+#EXTINF:-1,TELECINE FUN HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30139.m3u8
+#EXTINF:-1,TELECINE PIPOCA FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94378.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24536.m3u8
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9131.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9132.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30140.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30141.m3u8
+#EXTINF:-1,TELECINE PREMIUM FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94379.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24537.m3u8
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9133.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9134.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30142.m3u8
+#EXTINF:-1,TELECINE TOUCH FHD H.265
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/94380.m3u8
+#EXTINF:-1,TELECINE TOUCH
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/24538.m3u8
+#EXTINF:-1,TELECINE TOUCH FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9135.m3u8
+#EXTINF:-1,TELECINE TOUCH HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/9136.m3u8
+#EXTINF:-1,TELECINE TOUCH HD ¹
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30144.m3u8
+#EXTINF:-1,TELECINE TOUCH HD ²
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/30145.m3u8
+#EXTINF:-1,MTV
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13539.m3u8
+#EXTINF:-1,MTV FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8970.m3u8
+#EXTINF:-1,MTV HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8971.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8972.m3u8
+#EXTINF:-1,MULTISHOW
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/13540.m3u8
+#EXTINF:-1,MULTISHOW HD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8974.m3u8
+#EXTINF:-1,MULTISHOW FHD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/8975.m3u8
+#EXTINF:-1,SBT+ NOVELAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/365993.m3u8
+#EXTINF:-1,SBT+ SAUDADE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/365995.m3u8
+#EXTINF:-1,SBT+ SILVIO SANTOS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/365997.m3u8
+#EXTINF:-1,SBT+ TVZYN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/365998.m3u8
+#EXTINF:-1,RADIO R&B
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594625.m3u8
+#EXTINF:-1,RADIO K-Pop
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594626.m3u8
+#EXTINF:-1,RADIO Folk
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594627.m3u8
+#EXTINF:-1,RADIO Gospel Internacional
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594628.m3u8
+#EXTINF:-1,RADIO Gospel
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594629.m3u8
+#EXTINF:-1,RADIO Reggae
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594630.m3u8
+#EXTINF:-1,RADIO Rock
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594631.m3u8
+#EXTINF:-1,RADIO ForrÃ³
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594632.m3u8
+#EXTINF:-1,RADIO Pop
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594633.m3u8
+#EXTINF:-1,RADIO Latina
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594634.m3u8
+#EXTINF:-1,RADIO EletrÃ´nica
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594635.m3u8
+#EXTINF:-1,RADIO Hip-Hop
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594636.m3u8
+#EXTINF:-1,RADIO Pop Rock
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594637.m3u8
+#EXTINF:-1,RADIO Funk
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594638.m3u8
+#EXTINF:-1,RADIO Pagode
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594639.m3u8
+#EXTINF:-1,RADIO Rock
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594640.m3u8
+#EXTINF:-1,RADIO MPB
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594641.m3u8
+#EXTINF:-1,RADIO Sertanejo
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594642.m3u8
+#EXTINF:-1,RADIO Sertanejo RomÃ¢ntico
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594643.m3u8
+#EXTINF:-1,RADIO Anos 80
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594644.m3u8
+#EXTINF:-1,RADIO Anos 90
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594645.m3u8
+#EXTINF:-1,RADIO Anos 2000
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594646.m3u8
+#EXTINF:-1,RADIO Pop Nacional
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594647.m3u8
+#EXTINF:-1,RADIO Pop Rock Nacional
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594648.m3u8
+#EXTINF:-1,RADIO J-Pop
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594649.m3u8
+#EXTINF:-1,RADIO RomÃ¢nticas
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594650.m3u8
+#EXTINF:-1,RADIO Cachoeira AM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594651.m3u8
+#EXTINF:-1,RADIO Nova FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594652.m3u8
+#EXTINF:-1,RADIO Clube BagÃ© AM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594653.m3u8
+#EXTINF:-1,RADIO Alegria FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594654.m3u8
+#EXTINF:-1,RADIO EsperanÃ§a AM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594655.m3u8
+#EXTINF:-1,RADIO Itapema FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594656.m3u8
+#EXTINF:-1,RADIO Novo Tempo FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594657.m3u8
+#EXTINF:-1,RADIO GuaÃ­ba FM/AM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594658.m3u8
+#EXTINF:-1,RADIO AtlÃ¢ntida FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594659.m3u8
+#EXTINF:-1,RADIO Band News FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594660.m3u8
+#EXTINF:-1,RADIO Farroupilha FM/AM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594661.m3u8
+#EXTINF:-1,RADIO GaÃºcha FM/AM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594662.m3u8
+#EXTINF:-1,RADIO Bandeirantes FM/AM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594663.m3u8
+#EXTINF:-1,Gr6 Explode FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594664.m3u8
+#EXTINF:-1,RADIO FM O Dia
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594665.m3u8
+#EXTINF:-1,RADIO Mix FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594666.m3u8
+#EXTINF:-1,RADIO Coca Cola FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594667.m3u8
+#EXTINF:-1,RADIO Mania FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594668.m3u8
+#EXTINF:-1,RADIO Transamerica FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594669.m3u8
+#EXTINF:-1,RADIO Jovem Pan FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594670.m3u8
+#EXTINF:-1,RADIO 99.5 FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594671.m3u8
+#EXTINF:-1,RADIO Princesa FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594672.m3u8
+#EXTINF:-1,Radio Missao Catolica de Garrafao do Norte - PA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594673.m3u8
+#EXTINF:-1,Radio Garra Norte FM de Garrafao do Norte - PA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594674.m3u8
+#EXTINF:-1,Radio Ouro Verde de Capitao-poco - PA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594675.m3u8
+#EXTINF:-1,Serra Azul FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594676.m3u8
+#EXTINF:-1,99FM Belém PA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594677.m3u8
+#EXTINF:-1,Góspel FM Curitiba PR
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594678.m3u8
+#EXTINF:-1,Rádio Góspel Campinas
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594679.m3u8
+#EXTINF:-1,Udi Jovem Web Rádio
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594680.m3u8
+#EXTINF:-1,TOP MUSICAL WEB RADIO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594681.m3u8
+#EXTINF:-1,Rádio Ourem News
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594682.m3u8
+#EXTINF:-1,Radio Jipuúba - Garrafão do Norte -PA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594683.m3u8
+#EXTINF:-1,Rádio gaúcha AM 600
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594684.m3u8
+#EXTINF:-1,Rádio Itatiaia MG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594685.m3u8
+#EXTINF:-1,Rádio Grenal RS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594686.m3u8
+#EXTINF:-1,Rádio CBN SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594687.m3u8
+#EXTINF:-1,Rádio Saudade SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594688.m3u8
+#EXTINF:-1,Rádio Antena 1 SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594689.m3u8
+#EXTINF:-1,Rádio Evangelizar PR
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594690.m3u8
+#EXTINF:-1,Rádio Transamérica SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594691.m3u8
+#EXTINF:-1,Rádio JB RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594692.m3u8
+#EXTINF:-1,Rádio Melodia RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594693.m3u8
+#EXTINF:-1,Rádio Capital SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594694.m3u8
+#EXTINF:-1,Rádio Clube DF
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594695.m3u8
+#EXTINF:-1,Rádio Sociedade BA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594696.m3u8
+#EXTINF:-1,Rádio Alpha SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594697.m3u8
+#EXTINF:-1,Rádio Mix SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594698.m3u8
+#EXTINF:-1,Rádio Aparecida SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594699.m3u8
+#EXTINF:-1,Rádio Jovem Pan SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594700.m3u8
+#EXTINF:-1,Rádio Nova Brasil SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594701.m3u8
+#EXTINF:-1,Rádio Viola PR
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594702.m3u8
+#EXTINF:-1,Rádio GFM BA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594703.m3u8
+#EXTINF:-1,Rádio Metropolitana SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594704.m3u8
+#EXTINF:-1,Rádio canção Nova SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594705.m3u8
+#EXTINF:-1,Rádio Rock SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594706.m3u8
+#EXTINF:-1,Rádio Conquista SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594707.m3u8
+#EXTINF:-1,Rádio Guaíba RS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594708.m3u8
+#EXTINF:-1,Rádio Kiss SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594709.m3u8
+#EXTINF:-1,Rádio 105 SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594710.m3u8
+#EXTINF:-1,Rádio Atlântida RS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594711.m3u8
+#EXTINF:-1,Rádio CBN grande Lagos SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594712.m3u8
+#EXTINF:-1,Rádio Energia Fm SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594713.m3u8
+#EXTINF:-1,Rádio Liberdade MG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594714.m3u8
+#EXTINF:-1,Radio 98 MG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594715.m3u8
+#EXTINF:-1,Rádio Difusora Pantanal MS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594716.m3u8
+#EXTINF:-1,Rádio Massa SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594717.m3u8
+#EXTINF:-1,Rádio Difusora PB
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594718.m3u8
+#EXTINF:-1,Rádio Assunção Cearense CE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594719.m3u8
+#EXTINF:-1,Rádio Jangadeiro CE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594720.m3u8
+#EXTINF:-1,Rádio Inconfidência MG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594721.m3u8
+#EXTINF:-1,Rádio Senado DF
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594722.m3u8
+#EXTINF:-1,Rádio Pampa RS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594723.m3u8
+#EXTINF:-1,Rádio Banda B PR
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594724.m3u8
+#EXTINF:-1,Rádio Itapoan BA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594725.m3u8
+#EXTINF:-1,Rádio Mirante MA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594726.m3u8
+#EXTINF:-1,Rádio Transcontinental SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594727.m3u8
+#EXTINF:-1,Rádio 90.3 MG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594728.m3u8
+#EXTINF:-1,Rádio Continental RS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594729.m3u8
+#EXTINF:-1,Rádio Gazeta SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594730.m3u8
+#EXTINF:-1,Rádio Rauland PA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594731.m3u8
+#EXTINF:-1,Rádio Super MG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594732.m3u8
+#EXTINF:-1,Rádio Dom Bosco CE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594733.m3u8
+#EXTINF:-1,Rádio Arapuan PB
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594734.m3u8
+#EXTINF:-1,Rádio Cidade Fortaleza CE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594735.m3u8
+#EXTINF:-1,Rádio 89 Fm CE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594736.m3u8
+#EXTINF:-1,Rádio Ouro Verde Capitão Poço
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594737.m3u8
+#EXTINF:-1,Rádio Cidade CE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594738.m3u8
+#EXTINF:-1,Rádio Ministério Canaã CE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594739.m3u8
+#EXTINF:-1,Rádio Liderança CE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594740.m3u8
+#EXTINF:-1,Rádio Positivo GO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594741.m3u8
+#EXTINF:-1,Rádio Novas de Paz PE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594742.m3u8
+#EXTINF:-1,Rádio 98 Correio Sat PB
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594743.m3u8
+#EXTINF:-1,Rádio Hot SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594744.m3u8
+#EXTINF:-1,Rádio Imperial RS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594745.m3u8
+#EXTINF:-1,Rádio Super RD SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594746.m3u8
+#EXTINF:-1,Rádio Liberdade RS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594747.m3u8
+#EXTINF:-1,Rádio Marumby SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594748.m3u8
+#EXTINF:-1,Rádio SulAmérica Paradiso RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594749.m3u8
+#EXTINF:-1,Rádio Tropical SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594750.m3u8
+#EXTINF:-1,Rádio Piatã BA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594751.m3u8
+#EXTINF:-1,Rádio Rio de janeiro RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594752.m3u8
+#EXTINF:-1,Rádio Disney SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594753.m3u8
+#EXTINF:-1,Apenas Acústico
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594754.m3u8
+#EXTINF:-1,Web Rádio viva bem
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594755.m3u8
+#EXTINF:-1,Radio nostalgia Toscana italia
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594756.m3u8
+#EXTINF:-1,Rádio vfm Portugal
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594757.m3u8
+#EXTINF:-1,Rádio WA Argentina
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594758.m3u8
+#EXTINF:-1,Antenne Bayern Coffee Music Alemanha
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594759.m3u8
+#EXTINF:-1,Aeroporto Internacional do Rio de Janeiro
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594760.m3u8
+#EXTINF:-1,Cidade 99.1
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594761.m3u8
+#EXTINF:-1,Band News  Goiânia
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594762.m3u8
+#EXTINF:-1,FM o dia
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594763.m3u8
+#EXTINF:-1,Rádio gospel capital
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594764.m3u8
+#EXTINF:-1,Esporte total
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594765.m3u8
+#EXTINF:-1,FM flashback
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594766.m3u8
+#EXTINF:-1,Rádio carioca RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594767.m3u8
+#EXTINF:-1,Rádio Bandeirantes GO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594768.m3u8
+#EXTINF:-1,Nativa FM cuiaba
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594769.m3u8
+#EXTINF:-1,Music Five SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594770.m3u8
+#EXTINF:-1,Rádio cidade verde PI
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594771.m3u8
+#EXTINF:-1,Rádio evangélica vida RN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594772.m3u8
+#EXTINF:-1,Rádio amor incondicional RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594773.m3u8
+#EXTINF:-1,Rádio nova play RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594774.m3u8
+#EXTINF:-1,Rádio som jovem.PE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594775.m3u8
+#EXTINF:-1,Rádio melodia RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594776.m3u8
+#EXTINF:-1,Rádio futebol interior SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594777.m3u8
+#EXTINF:-1,Rádio antena 1 SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594778.m3u8
+#EXTINF:-1,Rádio antena + PR
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594779.m3u8
+#EXTINF:-1,Fita Cassete
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594780.m3u8
+#EXTINF:-1,Soft radio web DF
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594781.m3u8
+#EXTINF:-1,Rádio sem limites gospel RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594782.m3u8
+#EXTINF:-1,Flash Disc dance 80 SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594783.m3u8
+#EXTINF:-1,Conexão Reggae AM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594784.m3u8
+#EXTINF:-1,Rádio central da mídia PE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594785.m3u8
+#EXTINF:-1,Rádio OpalaRock MG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594786.m3u8
+#EXTINF:-1,Rádio Globo RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594787.m3u8
+#EXTINF:-1,Band FM Bahia
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594788.m3u8
+#EXTINF:-1,Rádio CBN SC
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594789.m3u8
+#EXTINF:-1,Rádio Clube PE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594790.m3u8
+#EXTINF:-1,Jovem Pan MS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594791.m3u8
+#EXTINF:-1,Rádio Play Hits MG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594792.m3u8
+#EXTINF:-1,Rádio Real SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594793.m3u8
+#EXTINF:-1,Rádio comunicadora Iguassu Foz
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594794.m3u8
+#EXTINF:-1,Rádio da Bispa
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594795.m3u8
+#EXTINF:-1,Jovem Pan AP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594796.m3u8
+#EXTINF:-1,Rádio CBN PE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594797.m3u8
+#EXTINF:-1,Rádio Clube PI
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594798.m3u8
+#EXTINF:-1,Rádio Globo hits SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594799.m3u8
+#EXTINF:-1,Rádio novela SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594800.m3u8
+#EXTINF:-1,Jovem Pan SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594801.m3u8
+#EXTINF:-1,Band News RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594802.m3u8
+#EXTINF:-1,Rádio Nova RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594803.m3u8
+#EXTINF:-1,Rádio do K7 RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594804.m3u8
+#EXTINF:-1,Rádio JB RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594805.m3u8
+#EXTINF:-1,Rádio sintonia esportiva RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594806.m3u8
+#EXTINF:-1,Rádio Bicuda RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594807.m3u8
+#EXTINF:-1,Rádio carioca futebol RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594808.m3u8
+#EXTINF:-1,Gama esportiva RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594809.m3u8
+#EXTINF:-1,Rádio roquette pinto RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594810.m3u8
+#EXTINF:-1,Super Rádio Tupi RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594811.m3u8
+#EXTINF:-1,Rádio sertaneja Web RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594812.m3u8
+#EXTINF:-1,Rádio costa do sol RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594813.m3u8
+#EXTINF:-1,Rádio antena 1 lite RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594814.m3u8
+#EXTINF:-1,Rádio Transamérica RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594815.m3u8
+#EXTINF:-1,Rádio CBN RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594816.m3u8
+#EXTINF:-1,Rádio Ferj RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594817.m3u8
+#EXTINF:-1,Mega Rádio Axé SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594818.m3u8
+#EXTINF:-1,ABM axé music BA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594819.m3u8
+#EXTINF:-1,Agogô carioca RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594820.m3u8
+#EXTINF:-1,Axé Brasil BA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594821.m3u8
+#EXTINF:-1,Barra Funda SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594822.m3u8
+#EXTINF:-1,Ju samba show RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594823.m3u8
+#EXTINF:-1,Micareta FM RJ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594824.m3u8
+#EXTINF:-1,Rádio respirando carnaval RS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594825.m3u8
+#EXTINF:-1,Rádio Kpop Litoral
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594826.m3u8
+#EXTINF:-1,Essência Kpop - Espanha
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594827.m3u8
+#EXTINF:-1,Jovem Rádio SP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594828.m3u8
+#EXTINF:-1,Rádio Adore Gabriel
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594829.m3u8
+#EXTINF:-1,CLUBE 105.5 FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594830.m3u8
+#EXTINF:-1,RADIO CLUBE PARÁ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594831.m3u8
+#EXTINF:-1,TOP RADIO SERTANEJO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594832.m3u8
+#EXTINF:-1,TOP RADIO AMADO BATISTA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594833.m3u8
+#EXTINF:-1,TOP RADIO GÓSPEL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594834.m3u8
+#EXTINF:-1,TOP RADIO SERTÃO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594835.m3u8
+#EXTINF:-1,RADIO PARÁCAP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594836.m3u8
+#EXTINF:-1,Radio Sorriso FM 87,9 - São Miguel do Guamá
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594837.m3u8
+#EXTINF:-1,Rádio Nazaré 91.3 FM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594838.m3u8
+#EXTINF:-1,Rádio Web Basílica de Nazaré
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/594839.m3u8
+#EXTINF:-1,FRIENDS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595243.m3u8
+#EXTINF:-1,A FORMIGA ÂTOMICA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595244.m3u8
+#EXTINF:-1,3 PALAVRINHAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595282.m3u8
+#EXTINF:-1,44 GATOS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595283.m3u8
+#EXTINF:-1,A CASA DO MICKEY MOUSE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595284.m3u8
+#EXTINF:-1,A CORRIDA ESPACIAL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595285.m3u8
+#EXTINF:-1,A FAMILIA DRÁCULA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595286.m3u8
+#EXTINF:-1,A FAMÍLA ADAMS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595288.m3u8
+#EXTINF:-1,A GRANDE FAMÍLIA DO ALASCA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595289.m3u8
+#EXTINF:-1,A MULHER MARAVILHA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595290.m3u8
+#EXTINF:-1,A PANTERA COR DE ROSA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595291.m3u8
+#EXTINF:-1,A TURMA DO BAIRRO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595292.m3u8
+#EXTINF:-1,A TURMA DO PATO BILL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595293.m3u8
+#EXTINF:-1,A VACA E O FRANGO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595294.m3u8
+#EXTINF:-1,AEROPORTO ÁREA RESTRITA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595226.m3u8
+#EXTINF:-1,APENAS UM SHOW
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595220.m3u8
+#EXTINF:-1,AS AVENTURAS DE TOM E JHERRY
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595298.m3u8
+#EXTINF:-1,AS MENINAS SUPERPODEROSAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595299.m3u8
+#EXTINF:-1,AS MENINAS SUPERPODEROSAS GERAÇAO Z
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595300.m3u8
+#EXTINF:-1,AS VISÕES DE RAVEN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595227.m3u8
+#EXTINF:-1,BABY LOONEY TUNES
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595303.m3u8
+#EXTINF:-1,BANANAS DE PIJAMAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595302.m3u8
+#EXTINF:-1,BATFINO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595304.m3u8
+#EXTINF:-1,BATMAN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595305.m3u8
+#EXTINF:-1,BATMAN DO FUTURO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595306.m3u8
+#EXTINF:-1,BATMAN E ROBIN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595307.m3u8
+#EXTINF:-1,BATMAN GOTHAM KNIGHT
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595308.m3u8
+#EXTINF:-1,BEN 10
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595309.m3u8
+#EXTINF:-1,BEN 10 E A FORÇA ALÍENIGENA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595310.m3u8
+#EXTINF:-1,BEN 10 OMINIVERSE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595311.m3u8
+#EXTINF:-1,BIBO PAI & BOB FILHO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595312.m3u8
+#EXTINF:-1,BIG BANG: A TEORIA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595218.m3u8
+#EXTINF:-1,BOB ESPONJA CALÇA QUADRADA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595205.m3u8
+#EXTINF:-1,BOJACK HORSEMAN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595221.m3u8
+#EXTINF:-1,BOKU HERO ACADEMIA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595219.m3u8
+#EXTINF:-1,BUBBLE GUPPIES
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595231.m3u8
+#EXTINF:-1,CARGA PESADA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595314.m3u8
+#EXTINF:-1,CASTORES PIRADOS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595315.m3u8
+#EXTINF:-1,CAVERNA DO DRAGÃO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595316.m3u8
+#EXTINF:-1,CHAPOLIN COLORADO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595202.m3u8
+#EXTINF:-1,CHAVES
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595201.m3u8
+#EXTINF:-1,CHAVES 02
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/367181.m3u8
+#EXTINF:-1,CHAVES 03
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/367182.m3u8
+#EXTINF:-1,CHAVES 04
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/367183.m3u8
+#EXTINF:-1,CHAVES 05
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/367184.m3u8
+#EXTINF:-1,CHAVES ANIMADO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/367185.m3u8
+#EXTINF:-1,CÃO CORAGEM
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595318.m3u8
+#EXTINF:-1,DE VOLTA PARA O FUTURO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595319.m3u8
+#EXTINF:-1,DELVIN O MOTOQUEIRO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595320.m3u8
+#EXTINF:-1,DENIS PIMENTINHA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595321.m3u8
+#EXTINF:-1,DESENCANTO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595322.m3u8
+#EXTINF:-1,DETETIVES DO PRÉDIO AZUL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595224.m3u8
+#EXTINF:-1,DIGIMON AVENTURE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595216.m3u8
+#EXTINF:-1,DOIS HOMENS E MEIO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595204.m3u8
+#EXTINF:-1,DOUG
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595323.m3u8
+#EXTINF:-1,DOUTORA BRINQUEDO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595324.m3u8
+#EXTINF:-1,DRAGON BALL Z
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595215.m3u8
+#EXTINF:-1,EU, A PATROA E AS CRIANÇAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595203.m3u8
+#EXTINF:-1,FAMÍLIA DINOSSAURO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595225.m3u8
+#EXTINF:-1,FANTOMAS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595325.m3u8
+#EXTINF:-1,FAÍSCA E FUMAÇA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595326.m3u8
+#EXTINF:-1,FUTURAMA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595223.m3u8
+#EXTINF:-1,GATO FELIZ
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595328.m3u8
+#EXTINF:-1,HE-MAN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595329.m3u8
+#EXTINF:-1,HENRY DANGER
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595330.m3u8
+#EXTINF:-1,HERCULES
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595331.m3u8
+#EXTINF:-1,ICARLY REVIVAL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595209.m3u8
+#EXTINF:-1,IRMÃO DO JOREL
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595332.m3u8
+#EXTINF:-1,JACKIE CHAN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595333.m3u8
+#EXTINF:-1,LARGADOS E PELADOS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595213.m3u8
+#EXTINF:-1,LARGADOS E PELADOS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595334.m3u8
+#EXTINF:-1,LARGADOS E PELADOS: A TRIBO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595335.m3u8
+#EXTINF:-1,MAGDALENA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595338.m3u8
+#EXTINF:-1,MANNY MÃOS À OBRA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595336.m3u8
+#EXTINF:-1,MANSÃO FOSTER
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595337.m3u8
+#EXTINF:-1,MARVEL DEMOLIDOR
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595339.m3u8
+#EXTINF:-1,MEGA MEN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595340.m3u8
+#EXTINF:-1,MICKEY DONALD E PATETA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595341.m3u8
+#EXTINF:-1,NARUTO SHIPPUDEN
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595207.m3u8
+#EXTINF:-1,NARUTO UZUMAKI
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595206.m3u8
+#EXTINF:-1,O PEQUENO SCOOBY
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595342.m3u8
+#EXTINF:-1,O PEQUENO URSO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595343.m3u8
+#EXTINF:-1,O QUE HÁ DE NOVO SCOOBY
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595344.m3u8
+#EXTINF:-1,OS JETSONS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595345.m3u8
+#EXTINF:-1,OS SIMPSONS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595200.m3u8
+#EXTINF:-1,PATO DONALD
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595346.m3u8
+#EXTINF:-1,PICA PAU
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595281.m3u8
+#EXTINF:-1,QUE LEGAL SCOOBY DOO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595347.m3u8
+#EXTINF:-1,SNOOPY
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595217.m3u8
+#EXTINF:-1,SOUTH PARK
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595210.m3u8
+#EXTINF:-1,STEVEN UNIVERSO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595211.m3u8
+#EXTINF:-1,TELETUBBIES
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595348.m3u8
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595214.m3u8
+#EXTINF:-1,TOP WING
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595241.m3u8
+#EXTINF:-1,TOT COP
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595242.m3u8
+#EXTINF:-1,TRUQUES DE MESTRE
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595212.m3u8
+#EXTINF:-1,TUBARÃO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595228.m3u8
+#EXTINF:-1,UM MALUCO NO PEDAÇO
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595208.m3u8
+#EXTINF:-1,WANDINHA
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595349.m3u8
+#EXTINF:-1,X-MEN EVOLUTION
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/595229.m3u8
+#EXTINF:-1,NBA TV
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598890.m3u8
+#EXTINF:-1,NBA | League Pass 02
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598888.m3u8
+#EXTINF:-1,NBA | League Pass 01
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598889.m3u8
+#EXTINF:-1,NBA | League Pass 03
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598887.m3u8
+#EXTINF:-1,NBA | League Pass 04
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598886.m3u8
+#EXTINF:-1,NBA | League Pass 05
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598885.m3u8
+#EXTINF:-1,NBA | League Pass 06
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598884.m3u8
+#EXTINF:-1,NBA | League Pass 07
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598883.m3u8
+#EXTINF:-1,NBA | League Pass 08
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598882.m3u8
+#EXTINF:-1,NBA | League Pass 09
+http://vivofibrax.org/live/d4co0lii4i/h7zyiij7u0/598881.m3u8
